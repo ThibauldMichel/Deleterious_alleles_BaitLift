@@ -1,0 +1,103 @@
+I have produce alignments files of coding nucleotides/genes (.fna) with captus. I have been informed that I should use MACSE (Multiple Alignment of Coding SEquences),  designed to produce codon-aware alignments.
+https://www.agap-ge2pop.org/macse/pipeline-documentation/
+
+Do I actually need it if I wish to make GERP and HyPhy analysis? Can it accept .fna files as input?
+
+
+#########################################################
+
+
+Great — I now have a thorough picture of all the relevant tools. Here's a clear breakdown of your situation:
+
+---
+
+## Do you need MACSE if Captus already aligned your .fna files?
+
+**Probably not — but it depends on your data quality and downstream goals.** Here's the reasoning:
+
+### What Captus already does
+When aligning coding sequences, Captus codon-aligns the nucleotide version using the amino acid alignment of the locus as a template. So your `.fna` files from Captus are already codon-aware alignments in FASTA format — the core thing MACSE is meant to provide.
+
+### What MACSE uniquely adds
+MACSE's key distinction is that it can align coding sequences even when they contain frameshifts and/or premature stop codons — situations where standard AA-guided approaches break down, such as with pseudogenes, assembly errors, or non-model sequencing contigs.
+
+If your Captus assemblies are clean, well-extracted coding sequences from good-quality data, you are unlikely to benefit from re-running MACSE. MACSE becomes valuable when your sequences have assembly errors, frameshifts, or you suspect pseudogenes in the dataset.
+
+---
+
+## Does GERP need codon-aware alignment?
+
+**GERP does not require it.** GERP scores are calculated without using or modelling the codon structure of protein-coding genes — it operates purely on nucleotide-level substitution rates to identify constrained sites. A well-trimmed nucleotide alignment (like Captus produces) is sufficient. The key requirement for GERP is a *correctly aligned*, *multi-species* nucleotide alignment paired with a species tree.
+
+---
+
+## Does HyPhy need codon-aware alignment?
+
+**Yes — this is where alignment quality really matters.** HyPhy requires a multiple alignment of homologous coding nucleotide sequences, and its codon-based models (dN/dS, BUSTED, FEL, MEME, etc.) all assume that the reading frame is preserved across the alignment. If gaps are not in multiples of three, or if the reading frame is disrupted, the results will be meaningless.
+
+HyPhy accepts input in FASTA, PHYLIP, or Nexus format. So your `.fna` files (which are FASTA) are directly compatible — no reformatting needed.
+
+Notably, HyPhy even provides its own `codon-msa` utility that can perform frameshift correction and translate sequences to amino acids for alignment, as an alternative to MACSE for pre-processing.
+
+---
+
+## Practical recommendation
+
+| Tool | Needs codon-aware alignment? | Captus .fna sufficient? |
+|---|---|---|
+| **GERP** | No | ✅ Yes |
+| **HyPhy** | Yes (reading frame must be intact) | ✅ Yes, if Captus output is clean |
+
+**You can likely proceed directly to GERP and HyPhy with your Captus `.fna` files.** However, before running HyPhy, it's worth doing a quick sanity check:
+
+1. Verify alignment length is divisible by 3 for each locus.
+2. Check for premature stop codons in translations (you can use a tool like `seqkit translate` or HyPhy's own pre-processing script).
+3. If you find frequent frameshifts or stop codons, *then* consider running MACSE's OMM_MACSE pipeline on those specific loci.
+
+MACSE would be most warranted if your taxa include degraded sequences (e.g., from herbarium specimens, ancient DNA, or transcriptome-derived contigs with assembly errors).
+
+###########################################################
+
+I think there is a mistake, it is not AA-alignment, it is DNA sequences. The reads were Hyb-Seq Illumina sequencing reads, with high coverage, and they have been aligned to the sequence of the target capture baits. Here is how the target capture baits have been designed:
+
+`We have produced a bait set that works across Begonia and includes sequences for genes likely to be of interest in the genus. We started with likely single-copy genes from a transcriptome produced from the Asian species Begonia luzhaiensis (Tseng et al., 2017). We were concerned that the baits ought not to be anonymous, because for many downstream analyses it is important to understand the function of the genes used. At the time we were designing the baits, the closest related species with a well-annotated genome available was cucumber (Cucumis sativus L.), so we limited target sequences to those annotated in the cucumber genome assembly (Yang et al., 2012) (see Figure 1). We wished to link the bait set to work already done and to maximise our ability for use in functional studies. We added sequences that matched markers used to generate the first Begonia genetic map (Brennan et al., 2012), along with genes linked to quantitative trait loci from an analysis of species-level variation (Twyford et al., 2014) and a DESeq analysis (Emelianova et al., 2021) and sequences from transcription factors differentially expressed between Begonia conchifolia and B. plebeja (Emelianova, 2017). Most Begonia are shade-adapted, and we wished to allow sequence analysis of key genes in the pathways of light perception and response. We added the Begonia luzhaiensis orthologues of genes associated with light responses, particularly shade tolerance. Based on performance in the Begonia sect. Coelocentrum capture (see Table 1), we refined the bait set, removing baits that captured many paralogues or that captured poorly, and replacing them with sequences of developmental genes and matches to the Angiosperms353 baits. We identified 13 target sequences with high paralogy and 83 that failed to capture. These sequences were removed from the set and replaced with sequences of several more developmental gene sequences matching the Angiosperms353 bait set (Johnson et al., 2019). This set was used for the three further captures that generated the data analysed here.`
+
+########################################################
+
+
+This is really helpful context. Let me reassess based on your actual data.
+
+## Your data is already well-suited — here's why
+
+### What you actually have
+Your sequences come from **Hyb-Seq Illumina reads** (high coverage, short reads) assembled against **known annotated coding sequences** from the cucumber genome and *Begonia luzhaiensis* transcriptome. These are:
+
+- Exon-derived, transcriptome-anchored sequences
+- Single-copy filtered (paralogs removed at bait design stage)
+- High-coverage Illumina data (very low error rate — not PacBio/Nanopore contigs)
+- Aligned by Captus which, as you confirmed, already performs codon-aware alignment for coding sequences
+
+This is essentially the **ideal scenario** for proceeding without MACSE.
+
+### Why frameshifts are extremely unlikely here
+MACSE's core value is handling **frameshifts and premature stop codons**. These typically arise from:
+
+- Assembly errors in long-read or low-coverage data ❌ (you have high-coverage Illumina)
+- Pseudogenes ❌ (your baits were explicitly filtered for single-copy, functional genes)
+- Non-model transcriptome contigs with sequencing errors ❌ (your references are genome-annotated)
+- Ancient DNA or herbarium specimens (depends on your samples — worth noting if applicable)
+
+### The AA-alignment clarification
+You're right to flag this. Captus's codon-alignment works by using the **amino acid alignment as a positional guide** to ensure gaps fall on codon boundaries — but the output `.fna` files are nucleotide sequences. The *result* is a DNA alignment that respects codon structure, which is exactly what both HyPhy and GERP need. There is no separate AA file required as input for either tool.
+
+---
+
+## Bottom line for your workflow
+
+| Step | Tool | Your .fna files ready? |
+|---|---|---|
+| Constraint scoring | GERP | ✅ Directly usable |
+| Selection analysis | HyPhy (BUSTED, FEL, MEME etc.) | ✅ Directly usable |
+| MACSE re-alignment | Not needed | Unless herbarium/degraded samples in dataset |
+
+**One practical check before HyPhy:** run a quick translation check on a few loci to confirm no stop codons are slipping through (e.g. with `seqkit translate --frame 1` or HyPhy's own `codon-msa` pre-processing script). If your samples are all fresh tissue or silica-dried material, you will almost certainly find clean reading frames throughout.

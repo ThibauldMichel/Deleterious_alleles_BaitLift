@@ -1,0 +1,4 @@
+Total species across all trees: 1168
+Total number of gene trees: 1050
+Trees with ≥75% of species: 0
+Trees with <75% of species: 1050

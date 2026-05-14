@@ -1,0 +1,8 @@
+Total unique specimens (Sps): 212640
+Total number of genes (trees): 1050
+75% of specimens: 159480
+Genes with >= 75% specimens: 0
+Genes with < 75% specimens: 1051
+
+Good genes list: good_genes.txt
+Bad genes list: bad_genes.txt

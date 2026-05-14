@@ -1,0 +1,38 @@
+JobID           JobName  Partition    Account  AllocCPUS      State ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+1844454      iqtree_PNG      himem cropdiv-a+          1  COMPLETED      0:0 
+1844454.bat+      batch            cropdiv-a+          1  COMPLETED      0:0 
+1844454.ext+     extern            cropdiv-a+          1  COMPLETED      0:0 
+1916059      captus PNG       long cropdiv-a+          1    RUNNING      0:0 
+1916059.bat+      batch            cropdiv-a+          1    RUNNING      0:0 
+1916059.ext+     extern            cropdiv-a+          1    RUNNING      0:0 
+1994638            bash     medium cropdiv-a+          1    RUNNING      0:0 
+1994638.ext+     extern            cropdiv-a+          1    RUNNING      0:0 
+1994638.0          bash            cropdiv-a+          1    RUNNING      0:0 
+
+
+the individual gene tree slurm job is 1844454    
+
+
+
+JobID           JobName  Partition    Account  AllocCPUS      State ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+1844454      iqtree_PNG      himem cropdiv-a+          1  COMPLETED      0:0 
+1844454.bat+      batch            cropdiv-a+          1  COMPLETED      0:0 
+1844454.ext+     extern            cropdiv-a+          1  COMPLETED      0:0 
+1916059      captus PNG       long cropdiv-a+          1    RUNNING      0:0 
+1916059.bat+      batch            cropdiv-a+          1    RUNNING      0:0 
+1916059.ext+     extern            cropdiv-a+          1    RUNNING      0:0 
+1994638            bash     medium cropdiv-a+          1    RUNNING      0:0 
+1994638.ext+     extern            cropdiv-a+          1    RUNNING      0:0 
+1994638.0          bash            cropdiv-a+          1    RUNNING      0:0 
+1994720       Hyphy_PNG      short cropdiv-a+          1 CANCELLED+      0:0 
+1994720.bat+      batch            cropdiv-a+          1  CANCELLED     0:15 
+1994720.ext+     extern            cropdiv-a+          1  COMPLETED      0:0 
+1994796       Hyphy_PNG       long cropdiv-a+          0 CANCELLED+      0:0 
+1995133       Hyphy_PNG     medium cropdiv-a+          1    RUNNING      0:0 
+1995133.bat+      batch            cropdiv-a+          1    RUNNING      0:0 
+1995133.ext+     extern            cropdiv-a+          1    RUNNING      0:0 
+
+
+The hyphy meme outputs are slurm job 1995133

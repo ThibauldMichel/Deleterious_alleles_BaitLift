@@ -1,0 +1,3 @@
+  File "/mnt/shared/scratch/tmichel/Deleterious_alleles_PNG/CAPTUS/CAPTUS-PNG/05_phylogeny_FastTreeAstral/filtering_MSA/script_filtering_MSA.py", line 41
+    if not (fasta_file.endswith(".fa") or fasta_file.endswith(".fasta") or fasta_file.endswith(".fna")):
+TabError: inconsistent use of tabs and spaces in indentation

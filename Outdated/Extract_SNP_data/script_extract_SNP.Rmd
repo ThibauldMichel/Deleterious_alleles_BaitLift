@@ -1,0 +1,43 @@
+---
+title: "VCF Parsing Report"
+author: "Thibauld"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+params:
+  vcf_file: "/home/thibauld/Documents/Bioinformatics/Deleterious_alleles_pipeline/Deleterious_alleles_PNG/conserved_SNPs/filtered_in_regions.vcf"
+---
+
+# VCF file path
+
+vcf \<- params\$vcf_file cat("VCF file:", vcf, "\n")
+
+# Function to read VCF
+
+read_vcf_to_dataframe \<- function(vcf_file) {
+
+\# Get header header_line \<- system( paste("grep '\^#CHROM' ", shQuote(vcf_file)), intern = TRUE )
+
+if (length(header_line) == 0) { stop("Could not find #CHROM header in VCF") }
+
+header \<- strsplit(sub("\^#", "", header_line), "\t")[[1]]
+
+\# Read body dt \<- fread( vcf_file, sep = "\t", header = FALSE, data.table = FALSE, comment.char = "\#", fill = TRUE )
+
+\# Adjust header length if needed if (ncol(dt) \< length(header)) { header \<- header[1:ncol(dt)] }
+
+colnames(dt) \<- header
+
+\# Type conversion if ("POS" %in% colnames(dt)) dt$POS <- as.integer(dt$POS) if ("QUAL" %in% colnames(dt)) dt$QUAL <- suppressWarnings(as.numeric(dt$QUAL))
+
+return(dt) }
+
+# Read VCF
+
+df \<- read_vcf_to_dataframe(vcf)
+
+# Quick summary
+
+cat("Dimensions:", dim(df), "\n") cat("First 20 columns:\n") print(colnames(df)[1:min(20, ncol(df))]) head(df)

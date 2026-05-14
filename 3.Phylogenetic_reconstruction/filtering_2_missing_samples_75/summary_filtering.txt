@@ -1,0 +1,11 @@
+Summary of filtering results
+============================
+Total unique specimens: 166
+Total number of genes: 1050
+75% of specimens (threshold): 124
+Genes with >= 75% specimens: 769
+Genes with < 75% specimens: 281
+
+Lists written to:
+  /home/tmichel/scratch/Deleterious_alleles_PNG/CAPTUS/CAPTUS-PNG/05_phylogeny_FastTreeAstral/filtering_2_missing_samples_75/good_genes.csv
+  /home/tmichel/scratch/Deleterious_alleles_PNG/CAPTUS/CAPTUS-PNG/05_phylogeny_FastTreeAstral/filtering_2_missing_samples_75/bad_genes.csv

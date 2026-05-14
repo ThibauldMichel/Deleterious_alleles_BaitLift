@@ -1,0 +1,44 @@
+#!/bin/bash
+#SBATCH --job-name="SIFT"
+#SBATCH --export=ALL
+#SBATCH --mem=32G
+
+
+
+# ===== STEP 1: Configure snpEff.config =====
+# Add to snpEff/snpEff.config:
+#   Bmas.genome : Bmas
+
+# ===== STEP 2: Prepare data directory =====
+mkdir -p ./snpEff/data/Bmas
+mkdir -p ./snpEff/data/genomes
+
+GFF=/home/tmichel/projects/rbge/tmichel/reference_genomes/Bmas.gff
+FA=/home/tmichel/projects/rbge/tmichel/reference_genomes/Bmas.fa
+CDS=/home/tmichel/projects/rbge/tmichel/reference_genomes/Bmas.cds
+PEP=/home/tmichel/projects/rbge/tmichel/reference_genomes/Bmas.pep
+
+cp $GFF  ./snpEff/data/Bmas/genes.gff
+cp $FA       ./snpEff/data/genomes/Bmas.fa
+cp $CDS        ./snpEff/data/Bmas/cds.fa       # optional but recommended
+cp $PEP    ./snpEff/data/Bmas/protein.fa   # optional but recommended
+
+# ===== STEP 3: Build the SnpEff database =====
+java -Xmx8g -jar ./snpEff/snpEff.jar build -gff3 -v Bmas
+# Add -noCheckCds -noCheckProtein if you don't have cds.fa/protein.fa
+
+# ===== STEP 4: Annotate VCF with SnpEff =====
+INPUT="/home/tmichel/projects/rbge/tmichel/ROH-pipeline_PNG/calls/all.vcf"
+SNPEFF_OUT="all_snpeff_annotated.vcf"
+java -Xmx32g -jar ./snpEff/snpEff.jar -v Bmas $INPUT > $SNPEFF_OUT
+
+# ===== STEP 5: Run SIFT4G on the SnpEff-annotated VCF =====
+java -jar SIFT4G_Annotator.jar \
+    -c \
+    -i $SNPEFF_OUT \
+    -d ./snpEff/data/Bmas \
+    -r results \
+    -t
+
+
+

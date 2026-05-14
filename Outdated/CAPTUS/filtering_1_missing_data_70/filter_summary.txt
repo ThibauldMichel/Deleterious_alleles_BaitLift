@@ -1,0 +1,1051 @@
+MSA_file	kept_sequences	removed_sequences	removed_sample_names
+ACmerged_contig_4915.fna	127	0	
+ACmerged_contig_16234.fna	128	0	
+ACmerged_contig_23732.fna	136	0	
+ACmerged_contig_24167.fna	115	8	B.S.Sym.48a,B.sp.Wilkie29116.71,B.oligandra200,B.bipinnatifida58,B.sp.CKYang1598.179,B.kaniensis201,B.vinkii199,B.longifolia34
+ACmerged_contig_12887.fna	128	0	
+ACmerged_contig_13540.fna	138	0	
+ACmerged_contig_26333.fna	114	7	B.S.Pet.B33.131,B.S.Pet.B13.44,B.S.Sym.B34.121,B.S.Sym.117a,B.S.Sym.28a,B.cf.fulvovillosa31,B.vinkii197
+ACmerged_contig_4988.fna	111	0	
+ACmerged_contig_1002.fna	126	0	
+ACmerged_contig_4446.fna	128	0	
+ACmerged_contig_37473.fna	134	0	
+ACmerged_contig_26588.fna	138	0	
+Becon104Scf00574g0014.1.fna	104	0	
+ACmerged_contig_33009.fna	131	5	B.S.Pet.129,B.sandsiana203,B.aikrono237,B.kaniensis153b,B.symsanguinea139
+Becon104Scf01004g0001.1.fna	121	0	
+ACmerged_contig_8477.fna	142	0	
+ACmerged_contig_21688.fna	144	0	
+ACmerged_contig_5460.fna	140	0	
+ACmerged_contig_25942.fna	133	0	
+ACmerged_contig_1922.fna	133	0	
+ACmerged_contig_9325.fna	122	0	
+ACmerged_contig_1925.fna	123	5	B.vinkii138,B.sp.Wilkie29116.71,B.strigosa113,B.maguniana180,B.bipinnatifida178a
+ACmerged_contig_23115.fna	143	0	
+ACmerged_contig_16635.fna	122	0	
+ACmerged_contig_3085.fna	47	88	B.S.Pet.102,B.S.Pet.157,B.S.Pet.245,B.S.Pet.244,B.S.Pet.ELAE4.196,B.S.Pet.ELAE98.225,B.asaroensis46,B.stilandra18,B.stilandra18a,B.bipinnatifida178,B.symsanguinea139,B.S.Pet.243,B.S.Pet.B15.110,B.asaroensis46a,B.S.Pet.ELAE81.215,B.cyrtandroides.sp.nov19,B.S.Sym.48,B.cf.strigosa142,B.oligandra200,B.vinkii3b,B.sp.P.Blanc172,B.bipinnatifida38,B.aikrono237,B.S.Sym.117a,B.sp.Rubite488.177,B.S.Pet.128,B.S.Pet.ELAE83.217,B.S.Pet.ELAE86.218,B.S.Sym.28,B.S.Pet.ELAE1.195,B.aff.augustae56,B.S.Pet.ELAE94.223,B.cyrtandroides.sp.nov14a,B.cf.fulvovillosa31a,B.bipinnatifida58,B.S.Pet.83,B.symsanguinea25a,B.mimikaensis159a,B.sp.ABEG248.174,B.S.Sym.28a,B.brassii202a,B.erodifolia45a,B.sp.Wilkie29116.71,B.atricha49,B.atricha52,B.aikrono240,B.vinkii208,B.S.Pet.127,B.S.Sym.117,B.S.Pet.ELAE93.222,B.malachosticta68,B.S.Sym.B32.140,B.modestiflora168,B.maguniana206,B.brachybotrys205a,B.brassii227,B.magunianaHOLO198,B.maguniana180,B.brassii207,B.sandsiana203,B.vinkii199,B.brassii219,B.pentandra210,B.kemumuensis27,B.stictopoda51,B.trichopoda50,B.chambersiae220,B.kaniensis153a,B.kaniensis201,B.kaniensis221,B.kaniensis224,B.kaniensis125,B.lagunensis64,B.vinkii3a,B.S.Pet.ELAE104.228,B.vinkii197,B.serratipetalaELAE115.232,B.cyrtandroides.sp.nov17,B.S.Pet.ELAE72.214,B.brassii202,B.symsanguinea25,B.cyrtandroides.sp.nov16a,B.antsiranensis175,B.S.Pet.ELAE119.234,B.strigosa113,B.peruviana36,B.subciliata24,Hillebrandia
+ACmerged_contig_13986.fna	129	1	B.S.Pet.128
+ACmerged_contig_9906.fna	127	0	
+ACmerged_contig_4392.fna	124	4	B.vinkii197,B.S.Pet.B33.131,B.sandsiana203,B.peruviana36
+ACmerged_contig_19732.fna	137	0	
+ACmerged_contig_13801.fna	128	0	
+ACmerged_contig_20646.fna	130	0	
+ACmerged_contig_6146.fna	129	0	
+ACmerged_contig_2172.fna	130	0	
+ACmerged_contig_10984.fna	127	0	
+ACmerged_contig_27741.fna	136	0	
+ACmerged_contig_3402.fna	132	0	
+ACmerged_contig_18264.fna	127	0	
+ACmerged_contig_2397.fna	123	0	
+ACmerged_contig_12881.fna	135	0	
+ACmerged_contig_23356.fna	123	0	
+ACmerged_contig_3487.fna	135	0	
+ACmerged_contig_11284.fna	113	10	B.vinkii197,B.asaroensis46a,B.S.Pet.156,B.maguniana180,B.sandsiana203,B.S.Sym.117,B.S.Pet.B33.131,B.S.Pet.244,B.aff.rubella169,B.sp.Wilkie29116.71
+ACmerged_contig_34848.fna	134	3	B.S.Pet.127,B.S.Pet.89,B.octopetala11
+ACmerged_contig_13436.fna	121	2	B.S.Pet.245,B.S.Sym.28
+ACmerged_contig_8754.fna	131	0	
+ACmerged_contig_2392.fna	134	3	B.S.Pet.84,B.maguniana180,B.S.Pet.129
+ACmerged_contig_9001.fna	112	0	
+ACmerged_contig_17577.fna	125	0	
+ACmerged_contig_20128.fna	124	0	
+ACmerged_contig_2518.fna	124	0	
+ACmerged_contig_9734.fna	120	0	
+ACmerged_contig_23280.fna	121	3	B.sp.Wilkie29116.71,B.sandsiana203,B.vinkii138
+Becon104Scf00845g0063.1.fna	139	0	
+Becon104Scf00341g0096.1.fna	116	6	B.S.Pet.B44.132,B.cf.strigosa142,B.kaniensis125,B.kaniensis153,B.cyrtandroides.sp.nov16a,B.S.Pet.83
+ACmerged_contig_13491.fna	126	0	
+ACmerged_contig_3394.fna	117	5	B.S.Sym.117,B.S.Pet.B33.131,B.trichopoda50,B.S.Pet.ELAE62.213,B.symsanguinea139
+ACmerged_contig_7595.fna	101	0	
+ACmerged_contig_5406.fna	140	0	
+Becon104Scf02747g0032.1.fna	125	1	B.vinkii197
+ACmerged_contig_2215.fna	41	86	B.S.Pet.102,B.S.Pet.ELAE82.216,B.aff.augustae56,B.sp.P.Blanc172,B.stilandra18,B.stilandra18a,B.weigallii57,B.S.Pet.83,B.S.Pet.ELAE94.223,B.bipinnatifida1,B.bipinnatifida58,B.oligandra200,B.vinkii197,B.vinkii3a,B.S.Pet.ELAE118.233,B.S.Pet.ELAE81.215,B.S.Pet.B1.133,B.S.Pet.B13.44,B.S.Pet.B44.132,B.cf.strigosa142,B.erodifolia45a,B.S.Sym.117a,B.S.Sym.B34.121,B.mimikaensis159,B.mimikaensis159a,B.S.Pet.ELAE72.214,B.S.Pet.B15.40,B.sandaunensis238,B.S.Pet.ELAE111.230,B.S.Pet.ELAE62.213,B.fractalifolia236,B.sp.ABEG248.174,B.S.Pet.ELAE93.222,B.S.Pet.235,B.S.Pet.241,B.S.Pet.243,B.cf.fulvovillosa31,B.cf.fulvovillosa31a,B.S.Pet.127,B.symsanguinea25,B.symsanguinea25a,B.asaroensis46,B.vinkii138,B.S.Pet.B1.39,B.cyrtandroides.sp.nov16,B.cyrtandroides.sp.nov16a,B.S.Pet.ELAE83.217,B.S.Pet.156,B.leucostricta176,B.lagunensis64,B.sp.EKBOE46.171,B.stenogyna67,B.malachosticta68,B.brassii227,B.cf.strigosa120,B.magunianaHOLO198,B.vinkii199,B.brassii207,B.sandsiana203,B.brassii219,B.maguniana206,B.maguniana2a,B.chambersiae220,B.kaniensis153,B.kaniensis153a,B.kaniensis221,B.kaniensis224,B.kaniensis201,B.kaniensis212,B.kaniensis125,B.pentandra210,B.speluncae62,B.longifolia34,B.maguniana180,B.kaniensis153b,B.modestiflora168,B.uniflora167,B.kemumuensis27,B.stictopoda51,B.trichopoda50,B.brachybotrys205a,B.aff.rubella169,B.antsiranensis175,B.maynensis37,B.peruviana36,B.S.Pet.ELAE119.234
+ACmerged_contig_23790.fna	130	3	B.S.Pet.244,B.stenogyna67,B.S.Pet.129
+ACmerged_contig_4019.fna	133	0	
+ACmerged_contig_86.fna	126	0	
+ACmerged_contig_27959.fna	125	0	
+ACmerged_contig_14819.fna	127	11	B.fulvovillosa151a,B.symsanguinea25,B.S.Pet.89,B.S.Pet.97,B.S.Sym.28,B.malachosticta68,B.bipinnatifida1,B.trichopoda50,B.S.Pet.127,B.kaniensis224,B.speluncae62
+ACmerged_contig_15686.fna	129	0	
+ACmerged_contig_2935.fna	126	1	B.sp.Wilkie29116.71
+ACmerged_contig_1803.fna	120	2	B.S.Sym.117,B.S.Pet.ELAE83.217
+ACmerged_contig_7167.fna	133	0	
+ACmerged_contig_8537.fna	128	4	B.S.Pet.89,B.S.Pet.ELAE83.217,B.peruviana36,B.S.Pet.ELAE93.222
+ACmerged_contig_9256.fna	80	55	B.S.Pet.102,B.S.Pet.B44.132,B.S.Pet.B15.40,B.S.Sym.117,B.cf.fulvovillosa31,B.mimikaensis159,B.S.Sym.28,B.S.Pet.B1.133,B.S.Sym.117a,B.symsanguinea25,B.S.Pet.B15.110,B.sp.Rubite488.177,B.S.Pet.ELAE86.218,B.S.Sym.28a,B.vinkii3b,B.S.Pet.B1.39,B.S.Pet.156,B.S.Pet.ELAE98.225,B.cyrtandroides.sp.nov16,B.S.Pet.241,B.S.Pet.ELAE104.228,B.S.Pet.ELAE52.211,B.S.Pet.ELAE83.217,B.fractalifolia236,B.S.Pet.ELAE72.214,B.S.Pet.243,B.S.Pet.ELAE27.204,B.cyrtandroides.sp.nov17,B.malachosticta68,B.vinkii197,B.bipinnatifida38,B.oligandra200,B.vinkii3a,B.vinkii208,B.bipinnatifida178a,B.S.Sym.B34.121,B.S.Pet.B13.44,B.bipinnatifida178,B.S.Pet.ELAE93.222,B.bipinnatifida1,B.cf.fulvovillosa31a,B.S.Pet.157,B.cyrtandroides.sp.nov16a,B.cyrtandroides.sp.nov14a,B.serratipetalaELAE115.232,B.vinkii138,B.asaroensis46a,B.cf.strigosa142,B.S.Pet.83,B.S.Pet.129,B.maguniana180,B.S.Pet.B33.131,B.sp.Wilkie29116.71,B.lagunensis64,B.cf.strigosa120
+ACmerged_contig_32010.fna	139	0	
+ACmerged_contig_19609.fna	130	4	B.strigosa113,B.brachybotrys205a,B.cyrtandroides.sp.nov16,B.brassii219
+ACmerged_contig_27695.fna	146	0	
+ACmerged_contig_18436.fna	113	11	B.S.Pet.102,B.S.Pet.B13.44,B.S.Sym.B34.121,B.S.Sym.117,B.asaroensis46a,B.stenogyna67,B.bipinnatifida1,B.S.Sym.28a,B.kaniensis125,B.vinkii199,B.symsanguinea25
+ACmerged_contig_7977.fna	136	0	
+ACmerged_contig_17926.fna	133	0	
+ACmerged_contig_4861.fna	138	0	
+ACmerged_contig_7280.fna	128	0	
+ACmerged_contig_8977.fna	123	1	B.S.Pet.83
+ACmerged_contig_14123.fna	102	17	B.sp.Wilkie29116.71,B.S.Pet.156,B.S.Sym.117a,B.vinkii138,B.vinkii197,B.asaroensis46a,B.symsanguinea25,B.fractalifolia236,B.kaniensis201,B.kaniensis125,B.vinkii199,B.maynensis37,B.S.Pet.ELAE86.218,B.S.Pet.ELAE82.216,B.S.Pet.ELAE93.222,B.S.Pet.B33.131,B.S.Pet.ELAE52.211
+ACmerged_contig_11644.fna	119	5	B.S.Pet.129,B.S.Pet.ELAE86.218,B.brassii202,B.S.Pet.60,B.aff.rubella169
+ACmerged_contig_27242.fna	123	7	B.maguniana180,B.brachybotrys205a,B.S.Pet.B33.131,B.S.Pet.128,B.S.Pet.60a,B.sandaunensis238,B.S.Pet.ELAE1.195
+ACmerged_contig_5418.fna	127	2	B.kaniensis125,B.sp.Wilkie29116.71
+ACmerged_contig_22294.fna	130	0	
+ACmerged_contig_7904.fna	138	0	
+ACmerged_contig_25960.fna	136	0	
+ACmerged_contig_12770.fna	125	2	B.S.Pet.B13.44,B.S.Pet.B1.39
+ACmerged_contig_10685.fna	132	0	
+ACmerged_contig_20872.fna	122	3	B.cf.strigosa142,B.S.Pet.B33.131,B.S.Sym.117a
+ACmerged_contig_16720.fna	114	4	B.bipinnatifida58,B.strigosa113,B.brachybotrys205a,B.bipinnatifida178
+ACmerged_contig_19054.fna	103	20	B.S.Pet.102,B.S.Pet.ELAE104.228,B.S.Pet.B1.39,B.symsanguinea25,B.bipinnatifida1,B.lagunensis64,B.bipinnatifida58,B.maguniana2a,B.vinkii138,B.S.Pet.B44.132,B.S.Sym.28a,B.S.Sym.117,B.cf.strigosa142,B.fulvovillosa151a,B.S.Sym.117a,B.sp.Wilkie29116.71,B.S.Pet.89,B.S.Sym.32,B.S.Pet.B33.131,B.vinkii197
+ACmerged_contig_17799.fna	137	2	B.bipinnatifida1a,B.sp.CKYang1598.179
+ACmerged_contig_517.fna	129	0	
+ACmerged_contig_1276.fna	100	29	B.S.Sym.117,B.S.Pet.127,B.sp.Wilkie29116.71,B.S.Pet.129,B.S.Pet.89,B.bipinnatifida1,B.bipinnatifida58,B.cf.strigosa142,B.cyrtandroides.sp.nov14,B.cf.fulvovillosa31a,B.symsanguinea25,B.S.Sym.28a,B.vinkii138,B.mimikaensis159,B.vinkii197,B.S.Pet.B44.132,B.S.Pet.83,B.S.Pet.B33.131,B.cf.strigosa120,B.S.Pet.ELAE82.216,B.cyrtandroides.sp.nov16,B.brassii219,B.maguniana206,B.brassii227,B.kaniensis153,B.kaniensis125,B.subciliata24,B.serratipetalaELAE115.232,B.sp.CKYang1598.179
+ACmerged_contig_9093.fna	137	3	B.vinkii208,B.S.Pet.129,B.S.Pet.B15.110
+ACmerged_contig_7700.fna	125	0	
+ACmerged_contig_14473.fna	133	1	B.cf.strigosa142
+ACmerged_contig_31258.fna	127	0	
+ACmerged_contig_15588.fna	129	0	
+ACmerged_contig_24993.fna	105	7	B.vinkii208,B.S.Pet.156,B.S.Sym.28a,B.S.Pet.B1.133,B.brassii227,B.brassii219,B.brassii202
+ACmerged_contig_11390.fna	130	0	
+ACmerged_contig_13923.fna	89	15	B.S.Pet.B1.133,B.symsanguinea139,B.asaroensis46a,B.cyrtandroides.sp.nov14,B.cyrtandroides.sp.nov16a,B.S.Pet.B15.40,B.cf.fulvovillosa31a,B.weigallii57,B.S.Sym.ELAE46.209,B.vinkii208,B.oligandra200,B.kaniensis201,B.cyrtandroides.sp.nov17,B.brassii219,B.brachybotrys205a
+ACmerged_contig_897.fna	117	0	
+ACmerged_contig_6750.fna	106	0	
+ACmerged_contig_22112.fna	132	0	
+ACmerged_contig_8058.fna	127	0	
+ACmerged_contig_1262.fna	130	0	
+ACmerged_contig_1897.fna	132	0	
+ACmerged_contig_11373.fna	118	7	B.S.Pet.102,B.S.Pet.156,B.cf.strigosa142,B.S.Pet.129,B.fulvovillosa151a,B.maguniana2a,B.bipinnatifida178a
+ACmerged_contig_16531.fna	134	1	B.S.Pet.ELAE83.217
+ACmerged_contig_1036.fna	129	0	
+ACmerged_contig_3185.fna	119	0	
+Becon104Scf05579g0008.1.fna	133	0	
+Becon104Scf00567g0021.1.fna	121	0	
+ACmerged_contig_8372.fna	110	0	
+Becon104Scf09217g0008.1.fna	130	2	B.S.Sym.32,B.S.Pet.127
+ACmerged_contig_24789.fna	140	0	
+ACmerged_contig_11780.fna	127	0	
+ACmerged_contig_12170.fna	121	2	B.vinkii138,B.maguniana180
+ACmerged_contig_16432.fna	132	0	
+Becon104Scf09794g0002.1.fna	130	0	
+ACmerged_contig_26722.fna	128	0	
+ACmerged_contig_15231.fna	124	0	
+ACmerged_contig_5883.fna	135	0	
+ACmerged_contig_24511.fna	125	6	B.symsanguinea25,B.sp.Wilkie29116.71,B.cf.strigosa142,B.maguniana180,B.brassii219,B.kaniensis153
+ACmerged_contig_5948.fna	133	0	
+ACmerged_contig_21466.fna	130	1	B.S.Pet.127
+ACmerged_contig_39448.fna	132	0	
+ACmerged_contig_10511.fna	110	6	B.S.Sym.28a,B.S.Pet.156,B.symsanguinea25,B.S.Sym.117,B.kaniensis201,B.vinkii138
+ACmerged_contig_16725.fna	103	0	
+ACmerged_contig_639.fna	131	0	
+ACmerged_contig_16354.fna	123	3	B.sp.Wilkie29124.76,B.S.Pet.B13.44,B.S.Pet.156
+ACmerged_contig_3494.fna	139	0	
+ACmerged_contig_11347.fna	129	0	
+ACmerged_contig_29483.fna	122	2	B.vinkii199,B.brassii219
+ACmerged_contig_4587.fna	124	1	B.symsanguinea25
+ACmerged_contig_4434.fna	104	25	B.S.Pet.102,B.S.Pet.83,B.bipinnatifida58,B.symsanguinea25,B.strigosa113,B.S.Pet.97,B.cf.strigosa142,B.S.Pet.B33.131,B.sp.Wilkie29116.71,B.kaniensis201,B.brassii207,B.brassii219,B.maynensis37,B.sp.P.Blanc172,B.sp.P.Blanc2173,B.vinkii197,B.vinkii208,B.brassii227,B.magunianaHOLO198,B.vinkii199,B.S.Pet.ELAE104.228,B.S.Pet.60a,B.bipinnatifida38,B.octopetala11,B.mimikaensis159a
+ACmerged_contig_14297.fna	139	0	
+ACmerged_contig_23062.fna	132	0	
+ACmerged_contig_14443.fna	126	0	
+ACmerged_contig_1944.fna	136	1	B.strigosa113
+ACmerged_contig_20290.fna	132	1	B.maynensis37
+ACmerged_contig_256.fna	133	1	B.S.Pet.127
+ACmerged_contig_15657.fna	137	0	
+ACmerged_contig_16646.fna	126	3	B.S.Pet.B33.131,B.maguniana180,B.bipinnatifida58
+ACmerged_contig_885.fna	100	0	
+ACmerged_contig_15520.fna	139	0	
+ACmerged_contig_35754.fna	134	0	
+ACmerged_contig_3888.fna	126	0	
+ACmerged_contig_17694.fna	143	0	
+ACmerged_contig_10963.fna	125	2	B.S.Pet.89,B.brassii227
+ACmerged_contig_12288.fna	117	0	
+ACmerged_contig_13590.fna	118	3	B.S.Pet.89,B.maguniana180,B.bipinnatifida178
+ACmerged_contig_14126.fna	102	19	B.maguniana206,B.brassii227,B.strigosa113,B.S.Pet.156,B.chambersiae220,B.kaniensis153,B.kaniensis153a,B.kaniensis153b,B.kaniensis201,B.kaniensis212,B.kaniensis221,B.pentandra210,B.brassii207,B.magunianaHOLO198,B.brassii219,B.fulvovillosa151a,B.modestiflora168,B.cyrtandroides.sp.nov16a,B.S.Pet.ELAE118.233
+ACmerged_contig_19090.fna	133	0	
+ACmerged_contig_2026.fna	128	3	B.kaniensis153,B.kaniensis125,B.maguniana180
+Becon104Scf00043g2128.1.fna	132	0	
+ACmerged_contig_8330.fna	125	1	B.S.Pet.89
+ACmerged_contig_119.fna	135	0	
+ACmerged_contig_4341.fna	112	3	B.sp.Wilkie29116.71,B.vinkii138,B.chambersiae220
+ACmerged_contig_14417.fna	125	2	B.maguniana180,B.serratipetalaELAE115.232
+ACmerged_contig_21365.fna	138	0	
+ACmerged_contig_163.fna	125	0	
+ACmerged_contig_19408.fna	121	2	B.cf.strigosa120,B.maguniana180
+ACmerged_contig_16424.fna	140	0	
+ACmerged_contig_9979.fna	126	4	B.S.Pet.102,B.sp.Wilkie29116.71,B.S.Pet.ELAE83.217,B.S.Pet.B33.131
+ACmerged_contig_16599.fna	122	2	B.S.Pet.83,B.pentandra210
+ACmerged_contig_3450.fna	133	0	
+ACmerged_contig_5789.fna	125	0	
+ACmerged_contig_19496.fna	129	0	
+ACmerged_contig_19328.fna	126	0	
+ACmerged_contig_24666.fna	130	0	
+ACmerged_contig_9657.fna	136	0	
+ACmerged_contig_4183.fna	138	0	
+ACmerged_contig_11245.fna	133	0	
+ACmerged_contig_1551.fna	133	0	
+ACmerged_contig_17539.fna	131	0	
+ACmerged_contig_3830.fna	129	2	B.serratipetalaELAE115.232,B.S.Pet.83
+ACmerged_contig_6802.fna	127	0	
+ACmerged_contig_13662.fna	131	0	
+ACmerged_contig_11704.fna	132	0	
+ACmerged_contig_21459.fna	120	7	B.symsanguinea25,B.S.Sym.28a,B.cf.strigosa142,B.sandsiana203,B.sp.Wilkie29116.71,B.aff.augustae56,B.asaroensis46a
+ACmerged_contig_3597.fna	133	0	
+ACmerged_contig_2661.fna	105	0	
+ACmerged_contig_21854.fna	132	0	
+ACmerged_contig_14345.fna	133	0	
+ACmerged_contig_30873.fna	129	1	B.S.Pet.ELAE83.217
+ACmerged_contig_11411.fna	130	7	B.aikrono237,B.S.Sym.32,B.maguniana2a,B.modestiflora168,B.symsanguinea139,B.sp.CKYang1598.179,B.bipinnatifida1a
+ACmerged_contig_10412.fna	107	22	B.S.Sym.28a,B.S.Sym.117,B.cf.fulvovillosa31,B.bipinnatifida1,B.vinkii197,B.S.Pet.B33.131,B.cf.strigosa120,B.cf.strigosa142,B.sp.Wilkie29116.71,B.brassii227,B.vinkii199,B.maguniana180,B.maguniana206,B.magunianaHOLO198,B.brassii219,B.sandsiana203,B.kaniensis125,B.kaniensis201,B.pentandra210,B.maynensis37,B.sp.P.Blanc172,B.S.Pet.ELAE93.222
+ACmerged_contig_6002.fna	125	0	
+ACmerged_contig_8392.fna	139	0	
+ACmerged_contig_40128.fna	73	58	B.S.Sym.117,B.maguniana180,B.brassii219,B.kaniensis153,B.sandsiana203,B.brassii227,B.S.Pet.ELAE119.234,B.S.Sym.B32.140,B.longifolia34,B.stenogyna67,B.malachosticta68,B.maynensis37,B.mimikaensis159a,B.S.Pet.156,B.S.Pet.B44.41,B.S.Pet.ELAE104.228,B.aikrono237,B.S.Sym.28,B.sp.Wilkie29124.76,B.S.Pet.157,B.S.Pet.B33.43,B.asaroensis46,B.erodifolia45a,B.S.Pet.B15.40,B.antsiranensis175,B.brassii202a,B.cf.fulvovillosa31a,B.S.Pet.128,B.bipinnatifida178,B.bipinnatifida38,B.brassii202,B.serratipetalaELAE115.232,B.fractalifolia236,B.S.Pet.ELAE81.215,B.S.Pet.ELAE93.222,B.S.Pet.ELAE82.216,B.S.Pet.ELAE86.218,B.weigallii57,B.sp.ABEG248.174,B.S.Pet.ELAE83.217,B.S.Pet.ELAE4.196,B.S.Pet.ELAE72.214,B.S.Pet.60a,B.S.Pet.60,B.S.Pet.ELAE1.195,B.S.Pet.ELAE62.213,B.vinkii197,B.stilandra18a,B.sp.CKYang1598.179,B.atricha52,B.sp.EKBOE46.171,Hillebrandia,B.bipinnatifida178a,B.modestiflora168,B.sp.Wilkie29116.71,B.S.Pet.83,B.cf.strigosa142,B.maguniana2a
+ACmerged_contig_5491.fna	127	0	
+ACmerged_contig_15185.fna	140	0	
+ACmerged_contig_10198.fna	137	0	
+ACmerged_contig_1972.fna	131	0	
+ACmerged_contig_4406.fna	143	0	
+ACmerged_contig_37976.fna	125	3	B.S.Sym.117,B.sp.Wilkie29116.71,B.kaniensis153
+ACmerged_contig_17029.fna	119	3	B.S.Pet.102,B.cf.fulvovillosa31,B.brassii219
+ACmerged_contig_28611.fna	128	0	
+ACmerged_contig_25003.fna	125	0	
+ACmerged_contig_12366.fna	121	7	B.serratipetalaELAE115.232,B.maguniana180,B.sandsiana203,B.S.Pet.156,B.sp.Rubite488.177,B.leucostricta176,B.stictopoda51
+ACmerged_contig_7865.fna	77	0	
+ACmerged_contig_5207.fna	130	0	
+ACmerged_contig_16958.fna	133	0	
+ACmerged_contig_864.fna	105	0	
+ACmerged_contig_6744.fna	138	0	
+ACmerged_contig_232.fna	123	8	B.vinkii138,B.asaroensis46a,B.lagunensis64,B.S.Sym.117,B.S.Sym.117a,B.S.Pet.B44.132,B.kaniensis201,B.symsanguinea25
+ACmerged_contig_12385.fna	138	0	
+ACmerged_contig_21331.fna	107	6	B.stictopoda170,B.uniflora167,B.trichopoda50,B.S.Pet.ELAE86.218,B.S.Pet.ELAE94.223,B.sandsiana203
+ACmerged_contig_9831.fna	128	0	
+ACmerged_contig_3866.fna	87	0	
+ACmerged_contig_4557.fna	124	0	
+ACmerged_contig_19660.fna	124	2	B.S.Sym.117,B.sandsiana203
+ACmerged_contig_12874.fna	136	0	
+ACmerged_contig_25893.fna	138	0	
+ACmerged_contig_9553.fna	139	0	
+ACmerged_contig_25373.fna	138	0	
+ACmerged_contig_23439.fna	116	7	B.S.Pet.127,B.bipinnatifida58,B.strigosa113,B.sp.Wilkie29116.71,B.sp.CKYang1598.179,B.brassii219,B.S.Sym.B32.140
+ACmerged_contig_17770.fna	128	0	
+ACmerged_contig_2818.fna	130	0	
+ACmerged_contig_35824.fna	138	0	
+ACmerged_contig_14477.fna	132	2	B.S.Sym.32,B.octopetala11
+ACmerged_contig_32300.fna	134	0	
+ACmerged_contig_2553.fna	114	3	B.cf.fulvovillosa31,B.sandsiana203,B.vinkii199
+ACmerged_contig_10453.fna	125	1	B.vinkii197
+ACmerged_contig_5765.fna	128	0	
+ACmerged_contig_6673.fna	134	0	
+ACmerged_contig_27520.fna	128	0	
+ACmerged_contig_13832.fna	134	0	
+ACmerged_contig_13201.fna	118	15	B.S.Pet.127,B.cf.fulvovillosa31a,B.strigosa113,B.asaroensis46a,B.sp.Wilkie29116.71,B.S.Pet.83,B.S.Pet.97,B.S.Pet.B1.39,B.bipinnatifida58,B.cf.fulvovillosa31,B.S.Sym.B34.121,B.S.Pet.ELAE111.230,B.lagunensis64,B.maguniana180,B.fulvovillosa151a
+ACmerged_contig_1631.fna	133	0	
+ACmerged_contig_17491.fna	130	3	B.uniflora167,B.brassii202,B.S.Pet.235
+ACmerged_contig_11297.fna	126	0	
+ACmerged_contig_27845.fna	120	1	B.vinkii138
+ACmerged_contig_24068.fna	130	0	
+ACmerged_contig_5508.fna	121	0	
+Becon104Scf00145g1067.1.fna	120	3	B.asaroensis46a,B.serratipetalaELAE115.232,B.S.Pet.244
+ACmerged_contig_7810.fna	130	0	
+ACmerged_contig_18512.fna	125	8	B.S.Pet.127,B.vinkii199,B.maguniana2a,B.S.Pet.129,B.fulvovillosa151a,B.S.Pet.89,B.strigosa113,B.S.Sym.32
+ACmerged_contig_2012.fna	131	0	
+ACmerged_contig_13942.fna	130	0	
+ACmerged_contig_34145.fna	135	0	
+ACmerged_contig_11438.fna	125	0	
+ACmerged_contig_4952.fna	126	3	B.S.Pet.ELAE83.217,B.serratipetalaELAE115.232,B.subciliata24
+ACmerged_contig_5529.fna	137	0	
+ACmerged_contig_33979.fna	121	4	B.S.Pet.102,B.symsanguinea25,B.asaroensis46a,B.sp.Wilkie29116.71
+ACmerged_contig_235.fna	134	0	
+ACmerged_contig_649.fna	134	0	
+ACmerged_contig_32743.fna	138	0	
+ACmerged_contig_28517.fna	114	15	B.S.Pet.102,B.S.Pet.83,B.S.Pet.156,B.asaroensis46a,B.vinkii197,B.serratipetalaELAE115.232,B.sp.Wilkie29116.71,B.S.Sym.117a,B.symsanguinea25,B.cf.strigosa142,B.S.Pet.B33.131,B.maguniana206,B.vinkii138,B.S.Pet.ELAE82.216,B.S.Pet.ELAE72.214
+ACmerged_contig_3705.fna	127	0	
+ACmerged_contig_4959.fna	126	0	
+ACmerged_contig_27719.fna	129	0	
+ACmerged_contig_11039.fna	126	0	
+ACmerged_contig_10281.fna	121	1	B.vinkii197
+ACmerged_contig_8257.fna	125	2	B.sp.Wilkie29116.71,B.S.Pet.B33.131
+ACmerged_contig_3086.fna	129	0	
+ACmerged_contig_14652.fna	126	0	
+ACmerged_contig_14003.fna	112	20	B.sp.Wilkie29116.71,B.S.Sym.117a,B.fulvovillosa151a,B.kaniensis153,B.longifolia34,B.vinkii199,B.strigosa113,B.stilandra18,B.S.Pet.60,B.aikrono240,B.S.Pet.ELAE83.217,B.leucostricta176,B.serratipetalaELAE115.232,B.S.Sym.B32.140,B.antsiranensis175,B.stictopoda51,B.S.Pet.B33.43,B.mimikaensis159a,B.modestiflora168,B.kaniensis125
+ACmerged_contig_10142.fna	131	0	
+ACmerged_contig_16253.fna	139	0	
+Becon104Scf03378g0023.1.fna	131	0	
+ACmerged_contig_22047.fna	84	37	B.S.Pet.102,B.cyrtandroides.sp.nov14,B.cf.fulvovillosa31,B.S.Pet.B33.131,B.S.Pet.ELAE111.230,B.S.Pet.235,B.S.Pet.ELAE98.225,B.asaroensis46a,B.S.Pet.B44.132,B.cf.fulvovillosa31a,B.bipinnatifida58,B.vinkii138,B.sp.Wilkie29124.76,B.stenogyna67,B.S.Sym.28a,B.bipinnatifida178a,B.S.Sym.117,B.sp.Wilkie29116.71,B.longifolia34,B.vinkii197,B.brassii227,B.maguniana180,B.sandsiana203,B.maguniana206,B.brassii219,B.brachybotrys205a,B.pentandra210,B.kaniensis153,B.oligandra200,B.vinkii208,B.malachosticta68,B.peruviana36,B.magunianaHOLO198,B.S.Pet.B15.110,B.kaniensis201,B.kaniensis125,B.subciliata24
+ACmerged_contig_12083.fna	145	0	
+ACmerged_contig_12282.fna	132	0	
+ACmerged_contig_11450.fna	131	0	
+ACmerged_contig_36262.fna	141	0	
+ACmerged_contig_24983.fna	137	0	
+ACmerged_contig_6257.fna	125	2	B.strigosa113,B.maguniana206
+ACmerged_contig_12459.fna	128	0	
+ACmerged_contig_988.fna	127	0	
+ACmerged_contig_582.fna	131	3	B.mimikaensis159a,B.S.Pet.B44.132,B.S.Pet.156
+ACmerged_contig_14131.fna	127	0	
+ACmerged_contig_938.fna	102	15	B.vinkii197,B.sp.Wilkie29116.71,B.S.Pet.60a,B.vinkii199,B.kaniensis125,B.S.Pet.B13.44,B.S.Pet.83,B.S.Pet.B44.132,B.stenogyna67,B.sandsiana203,B.S.Sym.117,B.S.Pet.B33.131,B.S.Pet.ELAE86.218,B.S.Pet.ELAE83.217,B.S.Pet.ELAE52.211
+ACmerged_contig_2229.fna	119	0	
+ACmerged_contig_8435.fna	130	1	B.S.Pet.ELAE86.218
+ACmerged_contig_1157.fna	129	5	B.S.Pet.129,B.S.Pet.B33.131,B.aikrono237,B.serratipetalaELAE115.232,B.sp.CKYang1598.179
+ACmerged_contig_2692.fna	105	3	B.bipinnatifida1,B.S.Pet.B33.131,B.S.Pet.ELAE82.216
+ACmerged_contig_10274.fna	128	0	
+ACmerged_contig_19039.fna	124	0	
+ACmerged_contig_12862.fna	134	0	
+ACmerged_contig_34214.fna	118	0	
+ACmerged_contig_7829.fna	128	0	
+ACmerged_contig_6602.fna	143	0	
+ACmerged_contig_11202.fna	119	2	B.bipinnatifida178a,B.S.Pet.156
+ACmerged_contig_12108.fna	129	4	B.S.Sym.32,B.serratipetalaELAE115.232,B.strigosa113,B.S.Pet.97
+ACmerged_contig_7706.fna	129	0	
+ACmerged_contig_19206.fna	136	0	
+ACmerged_contig_13968.fna	125	0	
+Becon104Scf04023g0006.1.fna	130	0	
+ACmerged_contig_2270.fna	129	0	
+ACmerged_contig_573.fna	74	23	B.S.Pet.102,B.S.Pet.157,B.S.Sym.117a,B.erodifolia45a,B.S.Pet.235,B.weigallii57,B.cyrtandroides.sp.nov14,B.fulvovillosa151,B.cyrtandroides.sp.nov16a,B.S.Pet.B13.44,B.S.Pet.ELAE52.211,B.S.Sym.B34.121,B.cyrtandroides.sp.nov17,B.S.Pet.ELAE98.225,B.cyrtandroides.sp.nov14a,B.symsanguinea25a,B.S.Pet.243,B.S.Pet.ELAE111.230,B.kaniensis153,B.stictopoda170,B.longifolia34,B.brassii207,B.S.Pet.B15.110
+ACmerged_contig_21865.fna	117	0	
+ACmerged_contig_6191.fna	135	0	
+ACmerged_contig_5280.fna	121	0	
+Becon104Scf00399g0011.1.fna	141	0	
+ACmerged_contig_6582.fna	130	0	
+ACmerged_contig_3176.fna	113	0	
+ACmerged_contig_21359.fna	136	0	
+ACmerged_contig_23944.fna	126	0	
+ACmerged_contig_30039.fna	103	5	B.S.Pet.156,B.vinkii197,B.S.Pet.60,B.sandsiana203,B.cf.strigosa120
+ACmerged_contig_2123.fna	133	0	
+ACmerged_contig_25000.fna	108	0	
+ACmerged_contig_3094.fna	126	0	
+ACmerged_contig_6425.fna	133	0	
+ACmerged_contig_8373.fna	112	8	B.S.Pet.B44.132,B.cf.fulvovillosa31,B.bipinnatifida178,B.vinkii199,B.cf.strigosa142,B.brachybotrys205a,B.S.Pet.ELAE72.214,B.S.Pet.ELAE83.217
+ACmerged_contig_3199.fna	127	0	
+ACmerged_contig_7892.fna	49	18	B.symsanguinea25,B.cf.strigosa142,B.S.Pet.83,B.S.Pet.89,B.asaroensis46a,B.bipinnatifida58,B.strigosa113,B.S.Pet.129,B.maguniana206,B.maguniana180,B.maynensis37,B.S.Pet.157,B.S.Pet.ELAE83.217,B.stictopoda51,B.serratipetalaELAE115.232,B.cyrtandroides.sp.nov16a,B.symsanguinea25a,B.S.Pet.ELAE119.234
+ACmerged_contig_2882.fna	139	0	
+ACmerged_contig_9083.fna	130	0	
+ACmerged_contig_4555.fna	128	0	
+ACmerged_contig_5043.fna	134	0	
+ACmerged_contig_19282.fna	137	0	
+ACmerged_contig_11033.fna	127	0	
+ACmerged_contig_11003.fna	120	0	
+ACmerged_contig_11562.fna	119	14	B.strigosa113,B.fulvovillosa151a,B.bipinnatifida1a,B.kaniensis153,B.kaniensis153a,B.kaniensis153b,B.kaniensis201,B.kaniensis212,B.kaniensis125,B.magunianaHOLO198,B.sandsiana203,B.maguniana180,B.S.Pet.97,B.longifolia34
+ACmerged_contig_16756.fna	139	0	
+ACmerged_contig_5468.fna	131	0	
+ACmerged_contig_2307.fna	130	0	
+ACmerged_contig_5089.fna	116	3	B.serratipetalaELAE115.232,B.sp.Wilkie29116.71,B.leucostricta176
+ACmerged_contig_9094.fna	125	0	
+ACmerged_contig_18085.fna	131	0	
+ACmerged_contig_24386.fna	133	0	
+Becon104Scf02614g0016.1.fna	122	0	
+ACmerged_contig_12839.fna	91	40	B.aff.tafaensis87,B.S.Pet.89,B.S.Sym.32,B.maguniana2a,B.S.Pet.102,B.S.Pet.B15.40,B.S.Pet.B1.133,B.S.Pet.B44.132,B.S.Pet.B44.41,B.S.Pet.ELAE118.233,B.malachosticta68,B.stenogyna67,B.S.Sym.117,B.S.Sym.117a,B.cf.fulvovillosa31,B.cf.fulvovillosa31a,B.symsanguinea25,B.vinkii197,B.S.Sym.28a,B.asaroensis46,B.bipinnatifida58,B.atricha52,B.stictopoda170,B.S.Pet.156,B.S.Pet.157,B.S.Pet.83,B.S.Pet.B13.44,B.erodifolia45a,B.oligandra200,B.S.Pet.ELAE111.230,B.cyrtandroides.sp.nov17,B.cyrtandroides.sp.nov19,B.S.Pet.ELAE27.204,B.S.Pet.ELAE4.196,B.S.Pet.ELAE98.225,B.asaroensis46a,B.weigallii57,B.mimikaensis159,B.S.Pet.B33.131,B.vinkii138
+ACmerged_contig_7437.fna	140	0	
+ACmerged_contig_33164.fna	122	1	B.fractalifolia236
+ACmerged_contig_30528.fna	135	0	
+ACmerged_contig_22127.fna	135	4	B.S.Pet.97,B.serratipetalaELAE115.232,B.S.Pet.127,B.S.Sym.117
+Becon104Scf00105g1004.1.fna	114	0	
+ACmerged_contig_19096.fna	126	3	B.S.Pet.ELAE83.217,B.S.Sym.32,B.S.Pet.89
+ACmerged_contig_4945.fna	127	0	
+ACmerged_contig_21379.fna	129	2	B.S.Pet.ELAE27.204,B.S.Sym.ELAE46.209
+ACmerged_contig_4310.fna	125	0	
+ACmerged_contig_9816.fna	139	0	
+ACmerged_contig_6356.fna	128	0	
+ACmerged_contig_8104.fna	137	3	B.S.Pet.127,B.S.Sym.32,B.maguniana2a
+ACmerged_contig_11831.fna	142	0	
+ACmerged_contig_9490.fna	129	0	
+ACmerged_contig_37700.fna	130	1	B.sandsiana203
+ACmerged_contig_1985.fna	130	0	
+ACmerged_contig_11010.fna	135	2	B.S.Pet.89,B.fulvovillosa151a
+ACmerged_contig_7314.fna	126	0	
+ACmerged_contig_5459.fna	136	0	
+ACmerged_contig_19975.fna	128	3	B.S.Pet.127,B.strigosa113,B.S.Pet.128
+ACmerged_contig_2708.fna	127	2	B.S.Pet.83,B.symsanguinea25
+ACmerged_contig_33758.fna	143	0	
+ACmerged_contig_2412.fna	128	1	B.S.Pet.B33.131
+ACmerged_contig_10503.fna	104	1	B.S.Sym.117
+ACmerged_contig_10262.fna	110	10	B.S.Sym.117,B.S.Pet.156,B.sp.P.Blanc172,B.symsanguinea25,B.S.Pet.ELAE83.217,B.brassii219,B.brachybotrys205a,B.cf.strigosa120,B.kaniensis153b,B.bipinnatifida178
+ACmerged_contig_4399.fna	95	0	
+ACmerged_contig_10656.fna	128	1	B.symsanguinea25
+ACmerged_contig_9635.fna	131	0	
+ACmerged_contig_17778.fna	127	7	B.strigosa113,B.bipinnatifida1,B.S.Pet.83,B.S.Pet.B33.43,B.fulvovillosa151,B.S.Pet.ELAE94.223,B.trichopoda50
+ACmerged_contig_15808.fna	131	0	
+ACmerged_contig_9012.fna	128	0	
+ACmerged_contig_26786.fna	131	0	
+ACmerged_contig_18567.fna	136	0	
+Becon104Scf00074g1016.1.fna	69	26	B.asaroensis46,B.sp.Rubite488.177,B.mimikaensis159,B.symsanguinea25a,B.S.Pet.241,B.sandaunensis238,B.stictopoda51,B.brassii227,B.fractalifolia236,B.uniflora167,B.trichopoda50,B.S.Pet.157,B.S.Pet.ELAE82.216,B.vinkii3a,B.oligandra200,B.fulvovillosa151,B.kaniensis125,B.S.Pet.ELAE27.204,B.vinkii3b,B.cf.fulvovillosa31a,B.bipinnatifida58,B.S.Pet.ELAE98.225,B.bipinnatifida1,B.S.Pet.ELAE83.217,B.S.Pet.B33.43,B.S.Pet.128
+ACmerged_contig_18070.fna	129	1	B.S.Pet.60a
+ACmerged_contig_8797.fna	129	5	B.symsanguinea25,B.S.Pet.127,B.S.Pet.89,B.S.Pet.97,B.S.Pet.ELAE93.222
+ACmerged_contig_25143.fna	136	0	
+ACmerged_contig_797.fna	136	0	
+ACmerged_contig_8978.fna	129	0	
+ACmerged_contig_6243.fna	134	0	
+ACmerged_contig_30444.fna	119	3	B.bipinnatifida58,B.sandsiana203,B.atricha52
+ACmerged_contig_14020.fna	133	0	
+ACmerged_contig_14529.fna	136	0	
+ACmerged_contig_28940.fna	96	12	B.S.Pet.102,B.oligandra200,B.cf.fulvovillosa31,B.vinkii138,B.bipinnatifida1,B.S.Pet.B13.44,B.S.Sym.B34.121,B.asaroensis46a,B.S.Pet.B44.132,B.kaniensis153b,B.magunianaHOLO198,B.longifolia34
+ACmerged_contig_17982.fna	125	0	
+ACmerged_contig_16560.fna	124	0	
+ACmerged_contig_29220.fna	122	6	B.asaroensis46a,B.S.Pet.83,B.vinkii138,B.bipinnatifida58,B.S.Sym.117,B.kaniensis153b
+ACmerged_contig_10594.fna	129	0	
+ACmerged_contig_12456.fna	134	0	
+ACmerged_contig_2698.fna	139	0	
+Becon104Scf01396g0025.1.fna	143	0	
+ACmerged_contig_10499.fna	128	0	
+ACmerged_contig_12046.fna	122	0	
+ACmerged_contig_29561.fna	127	6	B.S.Pet.127,B.S.Pet.129,B.bipinnatifida178a,B.sp.CKYang1598.179,B.cf.fulvovillosa31a,B.vinkii199
+ACmerged_contig_33683.fna	124	0	
+ACmerged_contig_13892.fna	127	0	
+ACmerged_contig_14681.fna	118	4	B.S.Sym.117,B.S.Pet.83,B.cf.strigosa142,B.sp.CKYang1598.179
+ACmerged_contig_26556.fna	128	0	
+ACmerged_contig_15213.fna	136	0	
+ACmerged_contig_34094.fna	26	41	B.S.Pet.102,B.S.Pet.B1.39,B.cf.fulvovillosa31,B.S.Pet.B15.110,B.cf.fulvovillosa31a,B.S.Pet.ELAE27.204,B.S.Pet.ELAE52.211,B.S.Pet.ELAE98.225,B.S.Sym.28a,B.cyrtandroides.sp.nov14,B.S.Pet.ELAE86.218,B.S.Pet.60a,B.S.Pet.ELAE111.230,B.S.Sym.B34.121,B.S.Pet.156,B.S.Pet.83,B.S.Sym.ELAE46.209,B.vinkii197,B.vinkii208,B.oligandra200,B.S.Pet.ELAE82.216,B.lagunensis64,B.bipinnatifida178,B.stenogyna67,B.brassii202,B.sp.EKBOE46.171,B.sp.Wilkie29116.71,B.S.Sym.28,B.mimikaensis159,B.sandaunensis238,B.S.Sym.117a,B.brachybotrys205a,B.kaniensis153b,B.maguniana206,B.brassii219,B.pentandra210,B.mimikaensis159a,B.kemumuensis27,B.longifolia34,B.bipinnatifida58,B.bipinnatifida178a
+ACmerged_contig_3000.fna	130	1	B.S.Pet.ELAE93.222
+ACmerged_contig_11875.fna	131	0	
+ACmerged_contig_17296.fna	138	0	
+Becon104Scf00645g0001.1.fna	128	0	
+ACmerged_contig_9983.fna	126	0	
+ACmerged_contig_12724.fna	121	13	B.symsanguinea25,B.serratipetalaELAE115.232,B.strigosa113,B.leucostricta176,B.maguniana180,B.mimikaensis159a,B.S.Pet.ELAE94.223,B.S.Sym.28,B.S.Pet.244,B.sp.P.Blanc2173,B.asaroensis46,B.sp.CKYang1598.179,B.brachybotrys205a
+ACmerged_contig_22376.fna	139	0	
+ACmerged_contig_10985.fna	128	1	B.symsanguinea25
+ACmerged_contig_19399.fna	127	3	B.S.Sym.32,B.S.Pet.B33.131,B.fulvovillosa151a
+ACmerged_contig_14837.fna	129	0	
+ACmerged_contig_9855.fna	135	0	
+ACmerged_contig_1899.fna	138	0	
+ACmerged_contig_8523.fna	126	0	
+ACmerged_contig_5290.fna	113	9	B.S.Pet.102,B.S.Pet.B44.132,B.asaroensis46a,B.S.Pet.83,B.S.Pet.B1.133,B.S.Pet.156,B.brassii227,B.kaniensis201,B.kaniensis125
+ACmerged_contig_16945.fna	118	2	B.asaroensis46a,B.S.Pet.83
+ACmerged_contig_28476.fna	128	3	B.S.Sym.117a,B.S.Pet.83,B.bipinnatifida178
+ACmerged_contig_34108.fna	133	0	
+ACmerged_contig_28014.fna	141	0	
+ACmerged_contig_2539.fna	135	0	
+ACmerged_contig_18090.fna	130	1	B.S.Pet.ELAE82.216
+ACmerged_contig_15599.fna	128	1	B.S.Pet.ELAE93.222
+ACmerged_contig_16951.fna	116	10	B.vinkii197,B.S.Sym.117,B.vinkii138,B.cf.strigosa142,B.S.Pet.89,B.brassii219,B.maguniana180,B.symsanguinea25,B.kaniensis125,B.S.Sym.117a
+ACmerged_contig_6438.fna	104	2	B.S.Sym.117a,B.S.Sym.28a
+ACmerged_contig_4444.fna	127	0	
+ACmerged_contig_6272.fna	106	1	B.S.Pet.ELAE86.218
+ACmerged_contig_18617.fna	111	12	B.bipinnatifida178,B.S.Pet.ELAE93.222,B.brassii219,B.vinkii199,B.S.Pet.B1.133,B.sp.ABEG248.174,B.S.Pet.ELAE98.225,B.erodifolia45a,B.S.Pet.B44.41,B.speluncae62,B.S.Pet.B15.40,B.S.Sym.28a
+ACmerged_contig_1195.fna	124	5	B.vinkii197,B.S.Sym.117a,B.vinkii138,B.vinkii199,B.sp.Wilkie29116.71
+Becon104Scf00755g0002.1.fna	90	0	
+ACmerged_contig_2858.fna	140	0	
+ACmerged_contig_10827.fna	132	0	
+ACmerged_contig_24159.fna	129	0	
+ACmerged_contig_5350.fna	130	2	B.vinkii199,B.sandsiana203
+ACmerged_contig_1389.fna	117	0	
+ACmerged_contig_14621.fna	130	0	
+ACmerged_contig_1163.fna	139	0	
+ACmerged_contig_21869.fna	141	0	
+ACmerged_contig_9964.fna	134	0	
+ACmerged_contig_6836.fna	110	7	B.symsanguinea25,B.S.Pet.ELAE83.217,B.kaniensis125,B.S.Pet.156,B.S.Sym.28a,B.bipinnatifida178a,B.S.Pet.ELAE86.218
+ACmerged_contig_6650.fna	146	0	
+ACmerged_contig_10925.fna	121	0	
+ACmerged_contig_5732.fna	134	0	
+ACmerged_contig_11128.fna	129	1	B.brachybotrys205a
+ACmerged_contig_29568.fna	126	6	B.sp.Wilkie29116.71,B.symsanguinea25,B.cf.strigosa142,B.bipinnatifida58,B.S.Sym.117a,B.maguniana180
+ACmerged_contig_25737.fna	128	7	B.bipinnatifida58,B.S.Pet.89,B.S.Pet.129,B.cf.strigosa142,B.symsanguinea25,B.aff.tafaensis87,Hillebrandia
+ACmerged_contig_10828.fna	114	8	B.maguniana180,B.S.Pet.B1.39,B.vinkii199,B.brassii219,B.brassii207,B.S.Sym.117,B.asaroensis46a,B.S.Sym.28a
+ACmerged_contig_38091.fna	130	6	B.bipinnatifida178,B.sp.CKYang1598.179,B.bipinnatifida58,B.strigosa113,B.maguniana2a,B.atricha49
+ACmerged_contig_3437.fna	99	22	B.S.Pet.102,B.vinkii138,B.S.Sym.48a,B.sandaunensis238,B.sp.P.Blanc172,B.erodifolia45a,B.kaniensis125,B.leucostricta176,B.S.Pet.ELAE27.204,B.S.Pet.ELAE98.225,B.brassii207,B.S.Pet.B33.131,B.S.Pet.B1.133,B.cyrtandroides.sp.nov16a,B.cyrtandroides.sp.nov17,B.S.Pet.B44.132,B.brassii227,B.cf.fulvovillosa31,B.bipinnatifida58,B.S.Pet.83,B.S.Pet.ELAE62.213,B.symsanguinea25
+ACmerged_contig_4132.fna	141	0	
+ACmerged_contig_7616.fna	133	0	
+ACmerged_contig_26843.fna	127	0	
+ACmerged_contig_223.fna	131	2	B.S.Sym.B32.140,B.S.Pet.ELAE83.217
+ACmerged_contig_12715.fna	116	9	B.S.Pet.102,B.asaroensis46a,B.S.Pet.83,B.sp.Wilkie29116.71,B.maguniana180,B.S.Sym.B34.121,B.stenogyna67,B.aikrono237,B.S.Pet.ELAE83.217
+ACmerged_contig_9147.fna	130	0	
+ACmerged_contig_23642.fna	141	0	
+ACmerged_contig_4536.fna	114	10	B.S.Pet.156,B.cf.strigosa142,B.vinkii197,B.bipinnatifida58,B.vinkii138,B.asaroensis46a,B.S.Sym.117a,B.kaniensis125,B.sandsiana203,B.bipinnatifida38
+ACmerged_contig_52.fna	123	13	B.S.Pet.ELAE83.217,B.S.Pet.89,B.symsanguinea25,B.S.Sym.117a,B.cf.strigosa142,B.sp.Wilkie29116.71,B.strigosa113,B.S.Sym.B32.140,B.maguniana180,B.vinkii199,B.sandsiana203,B.maguniana2a,B.bipinnatifida178a
+ACmerged_contig_15163.fna	133	0	
+ACmerged_contig_9564.fna	126	0	
+ACmerged_contig_1766.fna	128	0	
+ACmerged_contig_24200.fna	147	0	
+ACmerged_contig_7779.fna	116	11	B.S.Pet.B44.132,B.S.Sym.32,B.sandsiana203,B.maguniana206,B.maguniana2a,B.mimikaensis159a,B.sp.P.Blanc172,B.cyrtandroides.sp.nov16,B.aikrono237,B.S.Sym.B34.121,B.aff.rubella169
+ACmerged_contig_8701.fna	138	0	
+ACmerged_contig_19136.fna	141	0	
+ACmerged_contig_17055.fna	135	0	
+ACmerged_contig_13579.fna	129	0	
+ACmerged_contig_28789.fna	121	4	B.S.Pet.129,B.aff.rubella169,B.S.Pet.B33.43,B.malachosticta68
+ACmerged_contig_9552.fna	104	7	B.S.Pet.156,B.S.Pet.ELAE83.217,B.cf.fulvovillosa31a,B.asaroensis46a,B.stenogyna67,B.kaniensis153,B.uniflora167
+ACmerged_contig_5171.fna	135	5	B.strigosa113,B.S.Pet.B44.132,B.symsanguinea25,B.sandsiana203,B.atricha52
+ACmerged_contig_3363.fna	127	8	B.S.Pet.127,B.S.Sym.32,B.S.Pet.89,B.fulvovillosa151a,B.octopetala11,B.peruviana36,B.speluncae62,B.brachybotrys205a
+ACmerged_contig_10153.fna	128	0	
+ACmerged_contig_5907.fna	128	8	B.S.Pet.129,B.sp.P.Blanc172,B.S.Pet.B33.131,B.sandaunensis238,B.S.Pet.84,B.bipinnatifida38,B.S.Sym.B32.140,B.sp.P.Blanc2173
+ACmerged_contig_12867.fna	112	0	
+ACmerged_contig_13626.fna	132	0	
+ACmerged_contig_38580.fna	143	0	
+ACmerged_contig_2541.fna	129	2	B.maguniana2a,B.S.Pet.244
+ACmerged_contig_5205.fna	106	0	
+ACmerged_contig_1407.fna	124	8	B.symsanguinea25,B.sp.Wilkie29116.71,B.S.Sym.32,B.bipinnatifida58,B.S.Pet.60a,B.sp.CKYang1598.179,B.vinkii199,B.sandsiana203
+ACmerged_contig_24270.fna	33	83	B.S.Pet.102,B.S.Pet.157,B.symsanguinea25a,B.S.Pet.235,B.sandaunensis238,B.S.Pet.B1.39,B.sp.P.Blanc172,B.S.Pet.B13.44,B.S.Pet.B33.43,B.sp.CKYang1598.179,B.cyrtandroides.sp.nov14,B.cyrtandroides.sp.nov14a,B.S.Pet.ELAE86.218,B.mimikaensis159a,B.symsanguinea139,B.vinkii3b,B.S.Pet.ELAE27.204,B.S.Pet.ELAE83.217,B.cyrtandroides.sp.nov16,B.cyrtandroides.sp.nov16a,B.S.Pet.B15.40,B.brassii202,B.sp.EKBOE46.171,B.S.Sym.48a,B.S.Sym.B34.121,B.vinkii197,B.vinkii208,B.leucostricta176,B.weigallii57,B.cf.fulvovillosa31,B.mimikaensis159,B.S.Pet.ELAE81.215,B.atricha52,B.malachosticta68,B.stenogyna67,B.sp.Wilkie29124.76,B.bipinnatifida1,B.kemumuensis27,B.trichopoda50,B.cf.strigosa142,B.S.Pet.ELAE72.214,B.S.Pet.B1.133,B.maguniana206,B.vinkii199,B.brassii227,B.brassii219,B.sandsiana203,B.S.Pet.B15.110,B.magunianaHOLO198,B.brachybotrys205a,B.pentandra210,B.chambersiae220,B.kaniensis153a,B.kaniensis153b,B.kaniensis212,B.kaniensis221,B.kaniensis224,B.kaniensis201,B.kaniensis153,B.speluncae62,B.S.Sym.B32.140,B.longifolia34,B.lagunensis64,B.cf.fulvovillosa31a,B.antsiranensis175,B.uniflora167,B.maynensis37,B.peruviana36,B.S.Pet.ELAE119.234,B.S.Pet.243,B.S.Pet.ELAE118.233,B.S.Pet.ELAE62.213,B.stilandra18,B.S.Pet.60a,B.S.Pet.ELAE93.222,B.bipinnatifida38,B.brassii207,B.modestiflora168,Hillebrandia,B.S.Pet.ELAE94.223,B.S.Pet.241,B.S.Pet.ELAE52.211,B.vinkii138
+ACmerged_contig_20281.fna	123	13	B.bipinnatifida1,B.symsanguinea25,B.S.Sym.117a,B.maguniana2a,B.strigosa113,B.vinkii197,B.S.Pet.B33.131,B.bipinnatifida1a,B.S.Pet.127,B.kaniensis153,B.brassii227,B.vinkii199,B.atricha49
+ACmerged_contig_13687.fna	126	2	B.maguniana180,B.aff.augustae56
+ACmerged_contig_9502.fna	127	0	
+ACmerged_contig_11692.fna	123	0	
+ACmerged_contig_16136.fna	137	0	
+ACmerged_contig_2402.fna	111	9	B.S.Sym.28a,B.S.Pet.B44.132,B.vinkii138,B.kaniensis125,B.brassii207,B.magunianaHOLO198,B.vinkii199,B.S.Sym.117a,B.peruviana36
+ACmerged_contig_8728.fna	127	0	
+ACmerged_contig_7905.fna	138	0	
+ACmerged_contig_22306.fna	126	0	
+ACmerged_contig_24189.fna	116	4	B.S.Sym.28a,B.vinkii138,B.brassii219,B.kaniensis201
+ACmerged_contig_7407.fna	113	0	
+ACmerged_contig_23311.fna	135	0	
+ACmerged_contig_228.fna	133	0	
+ACmerged_contig_25603.fna	27	110	B.S.Pet.ELAE1.195,B.S.Pet.ELAE4.196,B.S.Sym.117,B.vinkii138,B.S.Pet.ELAE62.213,B.cf.fulvovillosa31a,B.bipinnatifida38,B.symsanguinea25,B.S.Pet.129,B.S.Pet.89,B.S.Sym.117a,B.strigosa113,B.S.Pet.97,B.bipinnatifida1a,B.maguniana180,B.octopetala11,B.peruviana36,B.S.Pet.ELAE119.234,B.kaniensis153,B.S.Pet.83,B.S.Sym.B32.140,B.brassii202,B.S.Pet.ELAE86.218,B.S.Pet.102,B.S.Pet.128,B.bipinnatifida58,B.oligandra200,B.sp.P.Blanc172,B.sp.Wilkie29116.71,B.vinkii197,B.vinkii208,B.weigallii57,B.S.Pet.241,B.lagunensis64,B.sp.Wilkie29124.76,B.S.Pet.B44.132,B.S.Pet.B1.133,B.longifolia34,B.S.Pet.156,B.S.Pet.157,B.S.Pet.235,B.S.Pet.ELAE118.233,B.S.Pet.243,B.S.Pet.B1.39,B.S.Pet.B13.44,B.S.Sym.28,B.S.Sym.28a,B.S.Sym.B34.121,B.S.Sym.ELAE46.209,B.aikrono237,B.cyrtandroides.sp.nov14,B.cyrtandroides.sp.nov14a,B.fractalifolia236,B.fulvovillosa151,B.fulvovillosa151a,B.sandaunensis238,B.stilandra18,B.stilandra18a,B.symsanguinea139,B.S.Pet.ELAE111.230,B.bipinnatifida1,B.cf.fulvovillosa31,B.sp.ABEG248.174,B.sp.P.Blanc2173,B.sp.Rubite488.177,B.S.Pet.60,B.asaroensis46,B.asaroensis46a,B.erodifolia45a,B.cf.strigosa142,B.cyrtandroides.sp.nov16,B.cyrtandroides.sp.nov16a,B.cyrtandroides.sp.nov17,B.mimikaensis159,B.mimikaensis159a,B.symsanguinea25a,B.S.Pet.ELAE27.204,B.S.Pet.ELAE98.225,B.atricha52,B.stenogyna67,B.brassii202a,B.stictopoda170,B.brassii207,B.brassii219,B.chambersiae220,B.kaniensis153a,B.kaniensis221,B.kaniensis224,B.kaniensis201,B.kaniensis212,B.pentandra210,B.brassii227,B.magunianaHOLO198,B.vinkii199,B.maguniana2a,B.S.Sym.48a,B.S.Pet.ELAE94.223,B.S.Pet.B33.131,B.sp.EKBOE46.171,B.speluncae62,B.maynensis37,B.S.Pet.245,B.aikrono240,B.S.Pet.ELAE93.222,B.S.Pet.B33.43,B.aff.augustae56,B.kemumuensis27,B.stictopoda51,B.modestiflora168,B.aff.rubella169
+ACmerged_contig_18684.fna	129	0	
+ACmerged_contig_2847.fna	138	0	
+ACmerged_contig_12252.fna	110	2	B.symsanguinea25,B.S.Pet.ELAE27.204
+ACmerged_contig_36539.fna	129	0	
+ACmerged_contig_8441.fna	138	0	
+ACmerged_contig_9901.fna	141	0	
+ACmerged_contig_18282.fna	124	0	
+ACmerged_contig_6601.fna	139	0	
+ACmerged_contig_24545.fna	130	0	
+ACmerged_contig_24101.fna	116	11	B.vinkii138,B.S.Pet.83,B.S.Pet.89,B.maguniana206,B.brachybotrys205a,B.brassii207,B.brassii227,B.sandsiana203,B.vinkii199,B.S.Sym.B32.140,B.stictopoda51
+ACmerged_contig_7701.fna	139	0	
+ACmerged_contig_27261.fna	121	0	
+ACmerged_contig_15990.fna	137	0	
+Becon104Scf01085g0064.1.fna	121	0	
+ACmerged_contig_19750.fna	114	1	B.S.Pet.B33.131
+ACmerged_contig_6652.fna	127	0	
+ACmerged_contig_10030.fna	122	0	
+ACmerged_contig_19217.fna	140	0	
+ACmerged_contig_7266.fna	123	0	
+ACmerged_contig_1098.fna	116	24	B.vinkii138,B.cf.fulvovillosa31a,B.S.Pet.127,B.S.Pet.83,B.S.Pet.89,B.fulvovillosa151a,B.S.Pet.156,B.S.Sym.28a,B.vinkii197,B.atricha49,B.cf.fulvovillosa31,B.S.Sym.117a,B.S.Pet.B44.132,B.asaroensis46a,B.sp.Wilkie29116.71,B.bipinnatifida1,B.S.Pet.97,B.S.Pet.B33.131,B.cf.strigosa142,B.augustae164,B.kaniensis153,B.pentandra210,B.sp.CKYang1598.179,B.maynensis37
+ACmerged_contig_195.fna	133	7	B.S.Pet.89,B.maguniana2a,B.bipinnatifida1a,B.kaniensis125,B.S.Pet.B33.131,B.S.Pet.241,B.S.Sym.48
+ACmerged_contig_3934.fna	140	0	
+ACmerged_contig_22520.fna	129	1	B.S.Pet.83
+ACmerged_contig_13266.fna	136	0	
+ACmerged_contig_5931.fna	114	6	B.bipinnatifida58,B.vinkii197,B.fractalifolia236,B.sp.Wilkie29116.71,B.S.Pet.83,B.kaniensis153
+ACmerged_contig_16.fna	145	1	B.bipinnatifida1a
+Becon104Scf01122g0006.1.fna	108	0	
+ACmerged_contig_25968.fna	140	0	
+ACmerged_contig_20048.fna	140	0	
+ACmerged_contig_2785.fna	126	0	
+ACmerged_contig_9838.fna	135	0	
+ACmerged_contig_27601.fna	134	0	
+ACmerged_contig_22445.fna	124	5	B.S.Sym.117,B.cf.strigosa142,B.S.Pet.B33.131,B.S.Sym.28a,B.maguniana180
+ACmerged_contig_2998.fna	140	0	
+ACmerged_contig_24088.fna	138	0	
+ACmerged_contig_20629.fna	141	0	
+ACmerged_contig_849.fna	126	0	
+ACmerged_contig_31289.fna	136	0	
+ACmerged_contig_17834.fna	124	0	
+ACmerged_contig_8779.fna	129	0	
+ACmerged_contig_6330.fna	119	0	
+ACmerged_contig_11120.fna	134	0	
+ACmerged_contig_27054.fna	128	0	
+ACmerged_contig_15245.fna	126	0	
+Becon104Scf00639g0084.1.fna	140	0	
+ACmerged_contig_20806.fna	135	0	
+ACmerged_contig_20.fna	125	2	B.S.Pet.83,B.S.Pet.ELAE83.217
+ACmerged_contig_20272.fna	122	3	B.serratipetalaELAE115.232,B.maynensis37,B.brassii219
+ACmerged_contig_17603.fna	124	0	
+ACmerged_contig_2754.fna	109	9	B.sp.Wilkie29116.71,B.fulvovillosa151a,B.S.Pet.156,B.S.Pet.83,B.S.Pet.B33.131,B.S.Pet.B44.132,B.S.Pet.ELAE86.218,B.cf.strigosa120,B.vinkii199
+ACmerged_contig_26526.fna	126	10	B.S.Sym.117,B.S.Sym.32,B.S.Pet.128,B.S.Pet.129,B.vinkii208,B.S.Sym.B34.121,B.sp.Wilkie29124.76,B.S.Pet.ELAE111.230,B.brassii227,B.mimikaensis159a
+ACmerged_contig_18828.fna	129	2	B.S.Pet.129,B.S.Pet.ELAE52.211
+ACmerged_contig_10551.fna	121	4	B.asaroensis46a,B.sp.Wilkie29116.71,B.sandsiana203,B.bipinnatifida178
+ACmerged_contig_19330.fna	123	0	
+ACmerged_contig_27670.fna	143	0	
+ACmerged_contig_12594.fna	97	0	
+ACmerged_contig_1454.fna	113	0	
+ACmerged_contig_8783.fna	139	0	
+ACmerged_contig_24382.fna	136	0	
+ACmerged_contig_20410.fna	130	0	
+ACmerged_contig_10874.fna	127	0	
+ACmerged_contig_29412.fna	122	1	B.atricha49
+ACmerged_contig_23426.fna	138	0	
+ACmerged_contig_8468.fna	136	0	
+ACmerged_contig_21066.fna	136	0	
+ACmerged_contig_19100.fna	127	4	B.S.Pet.B33.131,B.S.Pet.89,B.longifolia34,B.S.Pet.ELAE83.217
+ACmerged_contig_5276.fna	134	0	
+ACmerged_contig_28895.fna	142	0	
+ACmerged_contig_22457.fna	126	0	
+ACmerged_contig_24695.fna	130	0	
+ACmerged_contig_1057.fna	135	0	
+ACmerged_contig_6134.fna	132	0	
+ACmerged_contig_24584.fna	134	8	B.S.Pet.127,B.S.Pet.129,B.bipinnatifida1a,B.fulvovillosa151a,B.octopetala11,B.S.Pet.B13.44,B.bipinnatifida178,B.mimikaensis159a
+ACmerged_contig_10199.fna	121	0	
+ACmerged_contig_6367.fna	116	6	B.S.Sym.117a,B.symsanguinea25,B.brassii219,B.S.Pet.ELAE52.211,B.maguniana2a,B.S.Pet.241
+ACmerged_contig_9785.fna	123	0	
+ACmerged_contig_806.fna	134	0	
+ACmerged_contig_11326.fna	133	0	
+ACmerged_contig_25242.fna	88	20	B.bipinnatifida1,B.stilandra18a,B.S.Pet.ELAE27.204,B.modestiflora168,B.kemumuensis27,B.S.Pet.157,B.S.Pet.B13.44,B.maguniana206,B.S.Pet.B33.43,B.aff.augustae56,B.mimikaensis159,B.mimikaensis159a,B.S.Sym.ELAE46.209,B.S.Pet.ELAE1.195,B.aikrono240,B.vinkii3b,B.S.Pet.ELAE72.214,B.fulvovillosa151a,B.sp.Wilkie29116.71,B.S.Pet.B15.40
+ACmerged_contig_14244.fna	133	3	B.cyrtandroides.sp.nov16,B.leucostricta176,B.S.Sym.28
+ACmerged_contig_4388.fna	134	0	
+ACmerged_contig_9222.fna	136	0	
+ACmerged_contig_22452.fna	130	0	
+ACmerged_contig_10343.fna	125	0	
+ACmerged_contig_14354.fna	131	0	
+ACmerged_contig_1011.fna	149	3	B.vinkii134,B.bipinnatifida1a,B.arfakensis29
+ACmerged_contig_18130.fna	127	1	B.sandsiana203
+ACmerged_contig_31427.fna	127	0	
+ACmerged_contig_10647.fna	126	0	
+ACmerged_contig_22354.fna	132	1	B.S.Pet.129
+ACmerged_contig_7434.fna	130	0	
+ACmerged_contig_14385.fna	134	0	
+ACmerged_contig_11703.fna	133	1	B.S.Pet.127
+Becon104Scf02854g0002.1.fna	131	0	
+ACmerged_contig_27684.fna	138	0	
+ACmerged_contig_14625.fna	132	0	
+ACmerged_contig_9015.fna	134	0	
+ACmerged_contig_14516.fna	118	7	B.S.Pet.83,B.vinkii138,B.bipinnatifida58,B.vinkii197,B.brassii219,B.kaniensis125,B.maynensis37
+ACmerged_contig_9257.fna	123	0	
+ACmerged_contig_15337.fna	132	0	
+ACmerged_contig_36083.fna	138	0	
+ACmerged_contig_3869.fna	120	11	B.bipinnatifida58,B.S.Pet.83,B.maguniana2a,B.serratipetalaELAE115.232,B.S.Sym.28a,B.kaniensis201,B.erodifolia45a,B.vinkii197,B.sandsiana203,B.brassii219,B.bipinnatifida178
+ACmerged_contig_3549.fna	123	0	
+ACmerged_contig_2485.fna	143	0	
+ACmerged_contig_37746.fna	135	0	
+ACmerged_contig_13889.fna	138	0	
+ACmerged_contig_10464.fna	122	0	
+ACmerged_contig_24288.fna	126	2	B.cf.strigosa142,B.stenogyna67
+ACmerged_contig_18478.fna	131	1	B.sandsiana203
+ACmerged_contig_1393.fna	115	0	
+ACmerged_contig_9386.fna	112	2	B.S.Pet.B33.131,B.S.Pet.83
+ACmerged_contig_13026.fna	129	0	
+ACmerged_contig_14919.fna	111	0	
+ACmerged_contig_7385.fna	133	0	
+ACmerged_contig_21262.fna	132	0	
+ACmerged_contig_8258.fna	136	1	B.maguniana180
+ACmerged_contig_7118.fna	128	0	
+ACmerged_contig_28945.fna	120	0	
+ACmerged_contig_23791.fna	116	0	
+ACmerged_contig_2903.fna	123	4	B.sp.Wilkie29116.71,B.S.Sym.117,B.cf.strigosa142,B.kaniensis125
+ACmerged_contig_19500.fna	136	0	
+ACmerged_contig_4713.fna	105	1	B.vinkii199
+ACmerged_contig_12996.fna	114	0	
+ACmerged_contig_13381.fna	96	5	B.S.Sym.B34.121,B.S.Pet.B44.132,B.vinkii208,B.S.Sym.28a,B.lagunensis64
+ACmerged_contig_17844.fna	112	11	B.bipinnatifida1,B.S.Pet.B44.132,B.S.Sym.117a,B.S.Sym.117,B.S.Pet.B33.131,B.brassii219,B.kaniensis201,B.kaniensis125,B.vinkii138,B.brachybotrys205a,B.vinkii3b
+ACmerged_contig_7251.fna	128	0	
+ACmerged_contig_15937.fna	135	0	
+ACmerged_contig_29301.fna	113	10	B.S.Pet.ELAE62.213,B.bipinnatifida178,B.bipinnatifida58,B.S.Pet.156,B.S.Sym.28a,B.lagunensis64,B.vinkii138,B.brassii219,B.kaniensis125,B.S.Pet.B33.131
+ACmerged_contig_17345.fna	131	0	
+ACmerged_contig_11915.fna	122	0	
+ACmerged_contig_14113.fna	129	0	
+ACmerged_contig_12947.fna	136	0	
+ACmerged_contig_32070.fna	127	0	
+ACmerged_contig_8113.fna	142	0	
+ACmerged_contig_39300.fna	131	0	
+ACmerged_contig_29261.fna	135	0	
+ACmerged_contig_8966.fna	137	0	
+ACmerged_contig_21613.fna	111	4	B.oligandra200,B.vinkii197,B.vinkii208,B.brassii227
+ACmerged_contig_28951.fna	131	0	
+Becon104Scf07591g0002.1.fna	132	0	
+ACmerged_contig_12560.fna	131	2	B.symsanguinea25,B.cf.strigosa142
+ACmerged_contig_9637.fna	119	0	
+ACmerged_contig_12932.fna	136	0	
+ACmerged_contig_18159.fna	125	1	B.kaniensis125
+ACmerged_contig_15296.fna	136	0	
+ACmerged_contig_6550.fna	108	16	B.bipinnatifida58,B.erodifolia45a,B.S.Pet.B33.131,B.maguniana180,B.cf.strigosa142,B.leucostricta176,B.sp.CKYang1598.179,B.vinkii208,B.cf.fulvovillosa31,B.S.Pet.B44.132,B.kaniensis201,B.sp.Wilkie29116.71,B.S.Pet.83,B.brassii227,B.maguniana206,B.vinkii138
+ACmerged_contig_15894.fna	130	0	
+ACmerged_contig_11434.fna	131	0	
+ACmerged_contig_16895.fna	126	2	B.bipinnatifida58,B.S.Pet.60a
+ACmerged_contig_11319.fna	126	0	
+ACmerged_contig_14637.fna	126	0	
+Becon104Scf02403g0003.1.fna	131	0	
+ACmerged_contig_9639.fna	130	0	
+ACmerged_contig_6660.fna	130	0	
+ACmerged_contig_9730.fna	109	9	B.S.Pet.B44.132,B.vinkii208,B.cf.fulvovillosa31,B.cf.fulvovillosa31a,B.bipinnatifida1,B.stenogyna67,B.vinkii199,B.brassii227,B.bipinnatifida58
+ACmerged_contig_10804.fna	129	0	
+ACmerged_contig_14313.fna	124	0	
+ACmerged_contig_18113.fna	136	0	
+ACmerged_contig_4512.fna	129	2	B.S.Pet.89,B.strigosa113
+ACmerged_contig_24586.fna	113	7	B.vinkii197,B.symsanguinea25,B.S.Pet.ELAE27.204,B.cyrtandroides.sp.nov14,B.strigosa113,B.S.Pet.B15.110,B.vinkii199
+ACmerged_contig_16110.fna	48	81	B.S.Pet.102,B.S.Pet.B33.131,B.S.Pet.ELAE111.230,B.asaroensis46,B.bipinnatifida58,B.oligandra200,B.vinkii197,B.cf.fulvovillosa31,B.kaniensis201,B.kaniensis153a,B.kaniensis212,B.S.Pet.60a,B.aff.tafaensis87,B.S.Pet.B1.133,B.S.Pet.B1.39,B.S.Pet.ELAE104.228,B.malachosticta68,B.S.Pet.ELAE4.196,B.S.Pet.ELAE94.223,B.S.Pet.B44.132,B.symsanguinea25a,B.S.Pet.127,B.erodifolia45a,B.vinkii138,B.S.Pet.89,B.S.Pet.157,B.S.Pet.241,B.S.Pet.242,B.S.Pet.244,B.S.Pet.ELAE118.233,B.sandaunensis238,B.S.Pet.ELAE81.215,B.fractalifolia236,B.sp.ABEG248.174,B.symsanguinea139,B.sp.P.Blanc172,B.sp.P.Blanc2173,B.cyrtandroides.sp.nov17,B.sp.Wilkie29124.76,B.lagunensis64,B.kemumuensis27,B.S.Pet.ELAE98.225,B.S.Sym.48a,B.S.Pet.B15.40,B.bipinnatifida1,B.cyrtandroides.sp.nov14,B.weigallii57,B.modestiflora168,B.S.Sym.28,B.S.Sym.28a,B.S.Pet.ELAE27.204,B.S.Sym.B34.121,B.cyrtandroides.sp.nov14a,B.cyrtandroides.sp.nov16a,B.mimikaensis159,B.mimikaensis159a,B.speluncae62,B.maynensis37,B.S.Sym.117a,B.sp.EKBOE46.171,B.cf.fulvovillosa31a,B.trichopoda50,B.pentandra210,B.aff.rubella169,B.S.Pet.128,B.S.Pet.B13.44,B.kaniensis125,B.vinkii208,B.S.Sym.117,B.asaroensis46a,B.S.Pet.156,B.S.Pet.ELAE93.222,B.S.Pet.83,B.cf.strigosa142,B.brassii227,B.kaniensis153b,B.S.Pet.ELAE62.213,B.cyrtandroides.sp.nov19,B.sp.Wilkie29116.71,B.stictopoda170,B.leucostricta176
+Becon104Scf00184g1038.1.fna	125	5	B.cf.strigosa142,B.symsanguinea25,B.vinkii197,B.sandsiana203,B.S.Pet.83
+ACmerged_contig_11909.fna	119	0	
+ACmerged_contig_5542.fna	101	16	B.S.Pet.102,B.S.Pet.ELAE27.204,B.S.Sym.117a,B.S.Pet.B15.40,B.S.Sym.28a,B.symsanguinea25,B.cf.fulvovillosa31a,B.weigallii57,B.kaniensis153,B.maguniana206,B.brassii227,B.pentandra210,B.lagunensis64,B.sp.Wilkie29116.71,B.stenogyna67,B.subciliata24
+ACmerged_contig_16532.fna	96	0	
+ACmerged_contig_1224.fna	139	0	
+ACmerged_contig_2396.fna	129	4	B.cf.strigosa142,B.strigosa113,B.serratipetalaELAE115.232,B.S.Pet.ELAE83.217
+ACmerged_contig_14347.fna	130	1	B.vinkii199
+ACmerged_contig_15577.fna	124	0	
+ACmerged_contig_2857.fna	128	0	
+ACmerged_contig_4772.fna	118	8	B.S.Pet.102,B.S.Sym.117,B.cf.strigosa142,B.S.Sym.28a,B.S.Sym.117a,B.sp.Wilkie29116.71,B.S.Pet.83,B.leucostricta176
+ACmerged_contig_6115.fna	142	0	
+ACmerged_contig_17541.fna	128	0	
+ACmerged_contig_15603.fna	118	8	B.sp.Wilkie29116.71,B.S.Sym.117a,B.vinkii138,B.stenogyna67,B.vinkii199,B.S.Pet.83,B.cf.strigosa142,B.S.Pet.ELAE83.217
+ACmerged_contig_35825.fna	127	0	
+ACmerged_contig_24938.fna	119	1	B.S.Pet.156
+ACmerged_contig_30332.fna	90	16	B.S.Sym.117a,B.cf.strigosa142,B.vinkii197,B.S.Pet.ELAE86.218,B.S.Pet.60,B.bipinnatifida58,B.trichopoda50,B.S.Pet.89,B.S.Pet.128,B.vinkii138,B.S.Sym.117,B.S.Pet.B33.131,B.maguniana180,B.sp.Rubite488.177,B.leucostricta176,B.S.Pet.ELAE94.223
+ACmerged_contig_9578.fna	113	0	
+ACmerged_contig_4972.fna	125	0	
+ACmerged_contig_5577.fna	133	4	B.S.Pet.127,B.maguniana2a,B.octopetala11,B.bipinnatifida1a
+Becon104Scf00382g0019.1.fna	129	0	
+ACmerged_contig_26511.fna	101	1	B.S.Pet.B33.131
+ACmerged_contig_15209.fna	82	0	
+ACmerged_contig_12984.fna	125	0	
+ACmerged_contig_9444.fna	76	0	
+ACmerged_contig_2949.fna	101	2	B.vinkii138,B.magunianaHOLO198
+ACmerged_contig_2274.fna	133	3	B.S.Pet.244,B.S.Pet.129,B.S.Pet.ELAE94.223
+ACmerged_contig_10931.fna	136	0	
+ACmerged_contig_7783.fna	137	0	
+ACmerged_contig_7648.fna	131	0	
+ACmerged_contig_10275.fna	120	0	
+ACmerged_contig_4742.fna	117	3	B.S.Pet.127,B.vinkii199,B.bipinnatifida178a
+Becon104Scf03147g0009.1.fna	116	0	
+ACmerged_contig_15128.fna	110	8	B.bipinnatifida1,B.S.Pet.83,B.vinkii197,B.lagunensis64,B.cf.strigosa142,B.S.Sym.117,B.sp.P.Blanc172,B.S.Pet.ELAE83.217
+ACmerged_contig_1474.fna	136	14	B.S.Sym.32,B.S.Sym.48,B.aff.tafaensis87,B.fulvovillosa151a,B.cf.strigosa142,B.octopetala11,B.asaroensis46a,B.S.Pet.97,B.arfakensis29,B.aff.augustae30,B.maguniana2a,B.asaroensis115,B.bipinnatifida1a,B.vinkii134
+ACmerged_contig_10035.fna	134	1	B.S.Pet.89
+ACmerged_contig_16159.fna	122	5	B.S.Pet.83,B.cf.fulvovillosa31,B.sandsiana203,B.vinkii199,B.vinkii138
+ACmerged_contig_15278.fna	134	2	B.S.Pet.129,B.S.Pet.89
+ACmerged_contig_15365.fna	136	0	
+ACmerged_contig_10096.fna	125	3	B.sp.Wilkie29116.71,B.kaniensis125,B.brassii219
+ACmerged_contig_29744.fna	130	0	
+ACmerged_contig_4352.fna	118	0	
+ACmerged_contig_11884.fna	128	0	
+ACmerged_contig_16680.fna	133	0	
+ACmerged_contig_5363.fna	134	0	
+ACmerged_contig_26794.fna	117	3	B.vinkii138,B.sp.Wilkie29116.71,B.bipinnatifida178a
+ACmerged_contig_27789.fna	140	0	
+ACmerged_contig_22548.fna	135	0	
+Becon104Scf03109g0024.1.fna	113	6	B.cf.strigosa142,B.asaroensis46a,B.S.Pet.B44.132,B.stenogyna67,B.vinkii138,B.cf.fulvovillosa31a
+ACmerged_contig_17738.fna	136	0	
+ACmerged_contig_5729.fna	127	0	
+ACmerged_contig_5946.fna	131	0	
+ACmerged_contig_1620.fna	125	0	
+ACmerged_contig_958.fna	126	1	B.S.Pet.ELAE94.223
+ACmerged_contig_26359.fna	135	0	
+ACmerged_contig_23394.fna	100	2	B.maguniana2a,B.S.Pet.129
+ACmerged_contig_8365.fna	125	1	B.strigosa113
+ACmerged_contig_9163.fna	130	0	
+ACmerged_contig_19354.fna	117	1	B.serratipetalaELAE115.232
+ACmerged_contig_16097.fna	136	0	
+Becon104Scf00009g2050.1.fna	128	1	B.S.Pet.ELAE83.217
+ACmerged_contig_15613.fna	128	1	B.kaniensis224
+ACmerged_contig_1641.fna	138	0	
+ACmerged_contig_24516.fna	142	0	
+ACmerged_contig_18293.fna	109	5	B.lagunensis64,B.S.Pet.ELAE86.218,B.S.Pet.B44.132,B.S.Pet.ELAE83.217,B.antsiranensis175
+ACmerged_contig_8524.fna	129	0	
+ACmerged_contig_8261.fna	124	0	
+ACmerged_contig_20392.fna	126	1	B.sp.EKBOE46.171
+ACmerged_contig_936.fna	140	0	
+ACmerged_contig_14588.fna	122	3	B.S.Pet.83,B.vinkii199,B.brassii219
+ACmerged_contig_2564.fna	134	0	
+ACmerged_contig_4734.fna	120	4	B.vinkii197,B.S.Sym.117a,B.vinkii199,B.bipinnatifida178
+ACmerged_contig_14152.fna	135	2	B.bipinnatifida1a,B.maguniana2a
+ACmerged_contig_6504.fna	126	5	B.S.Pet.83,B.sp.Wilkie29116.71,B.sandsiana203,B.magunianaHOLO198,B.bipinnatifida58
+ACmerged_contig_12373.fna	136	0	
+ACmerged_contig_7942.fna	128	0	
+ACmerged_contig_1089.fna	127	0	
+ACmerged_contig_19304.fna	117	10	B.S.Pet.B33.131,B.asaroensis46a,B.S.Pet.83,B.sandsiana203,B.brassii219,B.vinkii138,B.S.Pet.60,B.serratipetalaELAE115.232,B.S.Pet.ELAE1.195,B.S.Pet.244
+ACmerged_contig_19906.fna	128	0	
+ACmerged_contig_4976.fna	120	3	B.S.Pet.156,B.cf.strigosa120,B.serratipetalaELAE115.232
+ACmerged_contig_9459.fna	137	0	
+ACmerged_contig_10867.fna	101	29	B.vinkii197,B.vinkii138,B.S.Sym.117a,B.bipinnatifida58,B.sp.Wilkie29116.71,B.cf.strigosa142,B.S.Pet.83,B.S.Pet.ELAE82.216,B.brassii219,B.kaniensis125,B.S.Pet.129,B.sandaunensis238,B.S.Pet.B15.40,B.S.Pet.B33.43,B.cyrtandroides.sp.nov14,B.symsanguinea25a,B.asaroensis46,B.symsanguinea139,B.cyrtandroides.sp.nov16a,B.vinkii3b,B.cf.fulvovillosa31,B.fulvovillosa151,B.S.Pet.B1.133,B.S.Pet.ELAE118.233,B.S.Pet.ELAE86.218,B.S.Pet.60a,B.mimikaensis159,B.pentandra210,B.maguniana206
+Becon104Scf00004g0014.1.fna	122	2	B.sp.Wilkie29116.71,B.cf.strigosa142
+ACmerged_contig_25274.fna	120	0	
+ACmerged_contig_1781.fna	140	0	
+ACmerged_contig_10614.fna	135	1	B.bipinnatifida178a
+ACmerged_contig_4139.fna	134	0	
+ACmerged_contig_9412.fna	131	1	B.mimikaensis159
+ACmerged_contig_17031.fna	126	0	
+ACmerged_contig_3573.fna	146	0	
+ACmerged_contig_4025.fna	133	0	
+ACmerged_contig_17462.fna	121	9	B.S.Sym.28,B.S.Pet.ELAE52.211,B.S.Pet.B15.110,B.vinkii199,B.uniflora167,B.S.Pet.60a,B.S.Pet.60,B.S.Pet.ELAE82.216,B.leucostricta176
+ACmerged_contig_23025.fna	144	0	
+ACmerged_contig_9862.fna	134	0	
+ACmerged_contig_9136.fna	129	0	
+ACmerged_contig_14954.fna	119	6	B.S.Sym.28a,B.symsanguinea25,B.S.Sym.32,B.aff.rubella169,B.kaniensis125,B.uniflora167
+ACmerged_contig_37627.fna	133	0	
+ACmerged_contig_13251.fna	137	0	
+ACmerged_contig_13814.fna	125	3	B.stictopoda51,B.S.Pet.ELAE119.234,B.S.Pet.244
+ACmerged_contig_11301.fna	113	0	
+ACmerged_contig_18724.fna	120	8	B.S.Sym.117a,B.cf.strigosa142,B.S.Pet.ELAE93.222,B.S.Pet.ELAE62.213,B.kaniensis221,B.speluncae62,B.S.Pet.83,B.maguniana180
+ACmerged_contig_3796.fna	133	0	
+ACmerged_contig_23646.fna	122	12	B.sp.Wilkie29116.71,B.S.Sym.117a,B.cf.strigosa142,B.S.Sym.32,B.S.Pet.129,B.vinkii138,B.S.Pet.244,B.mimikaensis159,B.strigosa113,B.cf.strigosa120,B.brassii219,B.S.Pet.83
+ACmerged_contig_26497.fna	128	3	B.S.Pet.ELAE83.217,B.S.Sym.32,B.octopetala11
+ACmerged_contig_15743.fna	132	0	
+ACmerged_contig_13696.fna	145	0	
+ACmerged_contig_3495.fna	138	0	
+ACmerged_contig_7906.fna	128	1	B.S.Pet.83
+ACmerged_contig_16094.fna	128	0	
+ACmerged_contig_6127.fna	99	0	
+ACmerged_contig_1258.fna	128	0	
+ACmerged_contig_10858.fna	135	3	B.strigosa113,B.octopetala11,B.sp.Wilkie29124.76
+ACmerged_contig_12513.fna	118	13	B.S.Pet.83,B.asaroensis46a,B.S.Sym.117,B.vinkii197,B.cf.strigosa142,B.S.Sym.117a,B.S.Pet.B1.39,B.sandsiana203,B.kaniensis153,B.S.Pet.ELAE93.222,B.magunianaHOLO198,B.S.Pet.B33.131,Hillebrandia
+ACmerged_contig_7577.fna	140	0	
+ACmerged_contig_3563.fna	128	0	
+ACmerged_contig_9249.fna	131	0	
+ACmerged_contig_10770.fna	123	1	B.S.Pet.ELAE4.196
+ACmerged_contig_7281.fna	132	0	
+ACmerged_contig_5807.fna	122	4	B.sp.Wilkie29116.71,B.cf.strigosa142,B.S.Pet.83,B.S.Pet.ELAE4.196
+ACmerged_contig_1948.fna	140	0	
+ACmerged_contig_14583.fna	140	0	
+ACmerged_contig_8185.fna	141	0	
+ACmerged_contig_5092.fna	118	1	B.S.Sym.117a
+ACmerged_contig_11873.fna	126	0	
+Becon104Scf00622g0014.1.fna	129	0	
+ACmerged_contig_22012.fna	130	4	B.S.Pet.89,B.S.Pet.244,B.bipinnatifida1a,B.S.Pet.ELAE83.217
+ACmerged_contig_3305.fna	113	3	B.S.Sym.117a,B.symsanguinea25,B.S.Pet.B33.131
+ACmerged_contig_28889.fna	127	0	
+ACmerged_contig_37370.fna	132	0	
+ACmerged_contig_3448.fna	142	0	
+ACmerged_contig_17682.fna	99	18	B.vinkii138,B.stenogyna67,B.brassii219,B.leucostricta176,B.S.Sym.117a,B.vinkii197,B.symsanguinea25,B.serratipetalaELAE115.232,B.maguniana180,B.brassii207,B.cf.strigosa120,B.S.Pet.60,B.S.Sym.117,B.S.Pet.ELAE118.233,B.oligandra200,B.S.Pet.ELAE72.214,B.pentandra210,B.vinkii199
+ACmerged_contig_7305.fna	135	0	
+ACmerged_contig_1281.fna	124	0	
+ACmerged_contig_13120.fna	106	24	B.S.Pet.83,B.S.Pet.127,B.sp.Wilkie29116.71,B.symsanguinea25,B.fulvovillosa151a,B.S.Sym.117a,B.chambersiae220,B.kaniensis201,B.kaniensis153b,B.maguniana180,B.brassii219,B.S.Pet.ELAE104.228,B.bipinnatifida178a,B.maguniana2a,B.S.Pet.60,B.S.Pet.ELAE62.213,B.S.Pet.B33.43,B.cyrtandroides.sp.nov14,B.S.Pet.ELAE118.233,B.cyrtandroides.sp.nov16,B.S.Pet.ELAE27.204,B.sandaunensis238,B.sp.P.Blanc172,B.aff.rubella169
+ACmerged_contig_1122.fna	113	7	B.S.Pet.102,B.S.Sym.117a,B.stenogyna67,B.brassii219,B.kaniensis201,B.S.Sym.28a,B.cf.strigosa120
+ACmerged_contig_21646.fna	139	0	
+ACmerged_contig_29661.fna	120	9	B.lagunensis64,B.asaroensis46a,B.vinkii197,B.S.Pet.B15.40,B.S.Sym.117,B.bipinnatifida58,B.S.Pet.89,B.kaniensis153,B.kaniensis201
+ACmerged_contig_22542.fna	131	1	B.S.Pet.89
+ACmerged_contig_2887.fna	134	0	
+ACmerged_contig_6123.fna	121	0	
+ACmerged_contig_27026.fna	131	6	B.S.Pet.102,B.maguniana2a,B.S.Pet.83,B.serratipetalaELAE115.232,B.sp.CKYang1598.179,B.bipinnatifida178a
+ACmerged_contig_16929.fna	140	0	
+ACmerged_contig_31087.fna	112	9	B.S.Pet.102,B.asaroensis46a,B.cyrtandroides.sp.nov17,B.S.Pet.B33.131,B.vinkii197,B.symsanguinea25,B.brassii219,B.maguniana2a,B.S.Pet.244
+ACmerged_contig_1877.fna	111	2	B.S.Pet.102,B.brassii219
+ACmerged_contig_38144.fna	134	0	
+ACmerged_contig_6508.fna	131	7	B.symsanguinea25,B.S.Pet.ELAE82.216,B.sp.Wilkie29116.71,B.aikrono237,B.S.Pet.84,B.fractalifolia236,B.longifolia34
+ACmerged_contig_10350.fna	128	0	
+ACmerged_contig_12298.fna	111	1	B.brassii227
+ACmerged_contig_2819.fna	118	0	
+ACmerged_contig_3195.fna	120	0	
+ACmerged_contig_29745.fna	138	0	
+ACmerged_contig_20478.fna	130	0	
+ACmerged_contig_4440.fna	129	0	
+ACmerged_contig_17374.fna	130	0	
+ACmerged_contig_11038.fna	124	0	
+ACmerged_contig_22152.fna	133	0	
+ACmerged_contig_6745.fna	136	0	
+ACmerged_contig_16738.fna	125	0	
+ACmerged_contig_21091.fna	135	0	
+ACmerged_contig_19586.fna	130	0	
+ACmerged_contig_28849.fna	133	0	
+ACmerged_contig_20019.fna	124	3	B.sp.Wilkie29116.71,B.maguniana180,B.vinkii197
+ACmerged_contig_3713.fna	132	0	
+ACmerged_contig_3003.fna	129	0	
+ACmerged_contig_9415.fna	137	0	
+ACmerged_contig_21765.fna	119	6	B.bipinnatifida58,B.S.Pet.127,B.sp.Wilkie29116.71,B.S.Pet.ELAE52.211,B.S.Pet.ELAE93.222,B.maguniana180
+ACmerged_contig_9248.fna	123	4	B.vinkii138,B.vinkii199,B.S.Pet.129,B.brassii202
+ACmerged_contig_13502.fna	44	87	B.S.Pet.102,B.S.Sym.B34.121,B.asaroensis46a,B.S.Pet.235,B.S.Pet.B44.41,B.S.Pet.ELAE81.215,B.weigallii57,B.S.Pet.60,B.S.Pet.60a,B.S.Pet.ELAE52.211,B.S.Pet.ELAE82.216,B.cyrtandroides.sp.nov17,B.S.Pet.B15.40,B.S.Sym.48a,B.S.Sym.ELAE46.209,B.oligandra200,B.sp.CKYang1598.179,B.symsanguinea139,B.vinkii138,B.vinkii197,B.vinkii3b,B.cyrtandroides.sp.nov14,B.lagunensis64,B.S.Pet.242,B.S.Pet.245,B.cf.fulvovillosa31a,B.bipinnatifida1,B.S.Pet.B13.44,B.cf.strigosa142,B.S.Pet.B1.133,B.S.Pet.ELAE1.195,B.S.Pet.ELAE98.225,B.S.Pet.ELAE111.230,B.asaroensis46,B.S.Pet.B33.43,B.sandaunensis238,B.mimikaensis159,B.sp.ABEG248.174,B.stenogyna67,B.S.Pet.ELAE27.204,B.S.Pet.ELAE62.213,B.aikrono237,B.erodifolia45a,B.symsanguinea25a,B.S.Pet.ELAE86.218,B.sp.Wilkie29124.76,B.S.Pet.241,B.S.Pet.244,B.sp.P.Blanc172,B.S.Sym.28,B.S.Pet.157,B.S.Pet.ELAE94.223,B.atricha52,B.S.Pet.156,B.fulvovillosa151,B.S.Pet.B1.39,B.chambersiae220,B.kaniensis153,B.kaniensis153a,B.kaniensis125,B.kaniensis201,B.S.Sym.28a,B.maguniana206,B.brassii227,B.maguniana180,B.magunianaHOLO198,B.vinkii199,B.pentandra210,B.malachosticta68,B.kemumuensis27,B.maynensis37,B.speluncae62,B.subciliata24,B.S.Pet.B44.132,B.sp.P.Blanc2173,B.stilandra18,B.vinkii208,B.S.Pet.B33.131,B.bipinnatifida58,B.cf.fulvovillosa31,B.S.Sym.117,B.sp.Wilkie29116.71,B.S.Sym.117a,B.cyrtandroides.sp.nov16a,B.symsanguinea25,B.antsiranensis175,B.stictopoda170
+ACmerged_contig_5830.fna	138	0	
+ACmerged_contig_1295.fna	130	0	
+ACmerged_contig_10257.fna	124	3	B.S.Sym.117a,B.sp.Wilkie29116.71,B.stictopoda170
+ACmerged_contig_23462.fna	128	0	
+ACmerged_contig_14332.fna	124	3	B.symsanguinea25,B.S.Pet.83,B.sp.Wilkie29116.71
+ACmerged_contig_37360.fna	126	0	
+ACmerged_contig_9000.fna	127	7	B.S.Pet.129,B.S.Sym.32,B.maguniana2a,B.maguniana180,B.S.Pet.127,B.serratipetalaELAE115.232,B.mimikaensis159a
+ACmerged_contig_5427.fna	111	0	
+ACmerged_contig_1383.fna	130	0	
+ACmerged_contig_19015.fna	116	10	B.S.Pet.102,B.vinkii197,B.S.Sym.117a,B.bipinnatifida58,B.S.Pet.156,B.vinkii138,B.sp.Wilkie29116.71,B.vinkii199,B.brassii227,B.S.Pet.B33.131
+ACmerged_contig_14324.fna	131	6	B.S.Pet.127,B.atricha49,B.maguniana180,B.maguniana2a,B.brassii202,B.sp.CKYang1598.179
+ACmerged_contig_14874.fna	136	0	
+ACmerged_contig_10072.fna	128	0	
+ACmerged_contig_4467.fna	127	0	
+ACmerged_contig_8273.fna	129	0	
+Becon104Scf14253g0001.1.fna	126	2	B.bipinnatifida178,B.octopetala11
+ACmerged_contig_22078.fna	135	0	
+ACmerged_contig_13446.fna	129	0	
+ACmerged_contig_15621.fna	85	30	B.S.Pet.ELAE86.218,B.symsanguinea139,B.sp.CKYang1598.179,B.S.Pet.83,B.S.Pet.B15.40,B.S.Pet.ELAE111.230,B.stictopoda170,B.speluncae62,B.S.Pet.156,B.bipinnatifida58,B.S.Sym.ELAE46.209,B.mimikaensis159,B.cf.strigosa142,B.vinkii138,B.cf.fulvovillosa31,B.S.Sym.28a,B.aikrono237,B.S.Pet.B1.133,B.S.Pet.ELAE4.196,B.erodifolia45a,B.weigallii57,B.cf.fulvovillosa31a,B.symsanguinea25,B.lagunensis64,B.kaniensis153,B.kaniensis125,B.brassii227,B.maguniana206,B.vinkii199,B.S.Pet.157
+ACmerged_contig_23915.fna	139	0	
+ACmerged_contig_15371.fna	133	1	B.S.Pet.B33.131
+ACmerged_contig_2188.fna	129	0	
+ACmerged_contig_544.fna	129	5	B.S.Pet.83,B.strigosa113,B.S.Sym.117a,B.vinkii197,B.S.Sym.ELAE46.209
+ACmerged_contig_5558.fna	126	0	
+ACmerged_contig_29383.fna	129	0	
+ACmerged_contig_14599.fna	134	1	B.S.Pet.157
+ACmerged_contig_4140.fna	147	0	
+ACmerged_contig_7754.fna	125	0	
+ACmerged_contig_18107.fna	117	8	B.S.Pet.83,B.symsanguinea25,B.S.Sym.28a,B.sp.Wilkie29116.71,B.S.Sym.117a,B.S.Sym.28,B.kaniensis201,B.vinkii208
+Becon104Scf01449g0053.1.fna	126	1	B.aff.augustae56
+ACmerged_contig_15788.fna	117	1	B.vinkii138
+ACmerged_contig_4916.fna	127	0	
+Becon104Scf01167g0029.1.fna	125	1	B.strigosa113
+ACmerged_contig_19175.fna	125	1	B.brachybotrys205a
+ACmerged_contig_10365.fna	126	0	
+ACmerged_contig_8553.fna	114	12	B.S.Pet.102,B.S.Pet.156,B.vinkii138,B.S.Sym.117,B.S.Sym.117a,B.vinkii197,B.S.Pet.83,B.maguniana180,B.bipinnatifida178a,B.S.Pet.ELAE86.218,B.S.Pet.B33.131,B.sp.Wilkie29116.71
+ACmerged_contig_30018.fna	114	11	B.vinkii197,B.S.Pet.83,B.S.Pet.241,B.S.Pet.244,B.mimikaensis159a,B.S.Pet.ELAE82.216,B.malachosticta68,B.kaniensis221,B.symsanguinea139,B.sp.Wilkie29124.76,B.modestiflora168
+ACmerged_contig_21733.fna	132	0	
+ACmerged_contig_14029.fna	127	0	
+ACmerged_contig_22751.fna	126	2	B.S.Pet.B33.131,B.cf.strigosa142
+ACmerged_contig_32356.fna	129	0	
+ACmerged_contig_1070.fna	136	0	
+ACmerged_contig_3321.fna	76	33	B.S.Pet.83,B.S.Pet.235,B.S.Pet.ELAE111.230,B.vinkii197,B.sp.Wilkie29124.76,B.bipinnatifida1,B.S.Pet.ELAE62.213,B.S.Pet.244,B.cf.fulvovillosa31,B.asaroensis46a,B.S.Pet.B1.133,B.S.Sym.B34.121,B.S.Sym.117,B.S.Pet.B1.39,B.S.Pet.156,B.S.Pet.ELAE98.225,B.cf.strigosa120,B.magunianaHOLO198,B.lagunensis64,B.maguniana180,B.strigosa113,B.S.Pet.243,B.S.Sym.28a,B.vinkii138,B.S.Pet.ELAE52.211,B.longifolia34,B.speluncae62,B.malachosticta68,B.pentandra210,B.S.Sym.ELAE46.209,B.S.Pet.157,B.S.Pet.60,B.mimikaensis159a
+ACmerged_contig_22491.fna	132	0	
+ACmerged_contig_2394.fna	142	0	
+ACmerged_contig_38510.fna	127	3	B.sp.CKYang1598.179,B.S.Sym.32,B.cf.strigosa142
+ACmerged_contig_39749.fna	137	0	
+ACmerged_contig_15310.fna	130	0	
+ACmerged_contig_17648.fna	138	2	B.S.Pet.97,B.S.Pet.89
+ACmerged_contig_113.fna	126	0	
+ACmerged_contig_18884.fna	128	0	
+ACmerged_contig_4281.fna	139	0	
+ACmerged_contig_21160.fna	72	46	B.S.Pet.156,B.bipinnatifida1,B.S.Pet.ELAE111.230,B.S.Sym.117,B.vinkii208,B.vinkii138,B.S.Pet.B33.131,B.S.Pet.ELAE118.233,B.cyrtandroides.sp.nov17,B.S.Sym.48a,B.cf.fulvovillosa31,B.S.Sym.28a,B.erodifolia45a,B.asaroensis46a,B.bipinnatifida38,B.S.Sym.B34.121,B.asaroensis46,B.S.Sym.ELAE46.209,B.S.Pet.B1.133,B.S.Pet.B15.40,B.S.Pet.B1.39,B.S.Pet.B13.44,B.lagunensis64,B.sp.CKYang1598.179,B.S.Pet.ELAE82.216,B.cyrtandroides.sp.nov14a,B.speluncae62,B.longifolia34,B.stenogyna67,B.brassii227,B.cf.strigosa120,B.magunianaHOLO198,B.maguniana206,B.brassii207,B.kaniensis153b,B.chambersiae220,B.kaniensis153a,B.kaniensis221,B.kaniensis212,B.pentandra210,B.maynensis37,B.subciliata24,B.S.Pet.ELAE119.234,B.peruviana36,B.S.Pet.ELAE93.222,Hillebrandia
+ACmerged_contig_8451.fna	128	0	
+ACmerged_contig_20085.fna	133	0	
+ACmerged_contig_15151.fna	140	0	
+ACmerged_contig_31086.fna	144	0	
+ACmerged_contig_7885.fna	128	1	B.kaniensis153b
+ACmerged_contig_10646.fna	132	0	
+ACmerged_contig_1207.fna	128	0	
+ACmerged_contig_7440.fna	127	0	
+ACmerged_contig_9513.fna	115	7	B.S.Pet.102,B.bipinnatifida1,B.lagunensis64,B.stenogyna67,B.S.Sym.117,B.brassii219,B.sp.CKYang1598.179
+ACmerged_contig_33508.fna	128	1	B.maguniana180
+Becon104Scf02322g0015.1.fna	132	0	
+ACmerged_contig_10104.fna	97	31	B.sp.Wilkie29116.71,B.cf.strigosa142,B.S.Sym.32,B.S.Pet.127,B.S.Pet.89,B.atricha49,B.maguniana2a,B.strigosa113,B.kaniensis224,B.S.Pet.243,B.S.Pet.235,B.S.Pet.ELAE118.233,B.cyrtandroides.sp.nov14,B.S.Pet.ELAE4.196,B.sp.EKBOE46.171,B.mimikaensis159a,B.S.Pet.ELAE72.214,B.kemumuensis27,B.kaniensis212,B.sp.P.Blanc172,B.brassii202,B.cyrtandroides.sp.nov19,B.S.Pet.242,B.aff.augustae56,B.S.Pet.ELAE98.225,B.asaroensis46,B.S.Pet.ELAE62.213,B.stilandra18a,B.S.Pet.B1.39,B.S.Pet.B33.131,B.sp.Rubite488.177
+ACmerged_contig_5068.fna	138	0	
+ACmerged_contig_34224.fna	144	0	
+Becon104Scf00233g0026.1.fna	132	0	
+ACmerged_contig_34613.fna	133	0	
+ACmerged_contig_10839.fna	133	0	
+ACmerged_contig_11977.fna	130	0	
+ACmerged_contig_2265.fna	121	0	
+ACmerged_contig_4206.fna	135	1	B.maguniana180
+Becon104Scf01446g0053.1.fna	128	0	
+ACmerged_contig_20487.fna	130	0	
+ACmerged_contig_15575.fna	135	0	
+ACmerged_contig_18320.fna	124	0	
+ACmerged_contig_24202.fna	134	0	
+ACmerged_contig_19563.fna	125	0	
+ACmerged_contig_2022.fna	140	0	
+ACmerged_contig_6328.fna	127	0	
+ACmerged_contig_29026.fna	124	1	B.S.Pet.B44.132
+ACmerged_contig_5366.fna	125	0	
+ACmerged_contig_10054.fna	136	0	
+ACmerged_contig_1637.fna	138	1	B.strigosa113
+ACmerged_contig_14780.fna	149	0	
+ACmerged_contig_17483.fna	134	0	
+ACmerged_contig_242.fna	145	0	
+ACmerged_contig_23146.fna	107	8	B.S.Pet.102,B.bipinnatifida1,B.S.Sym.117,B.S.Pet.B33.131,B.kaniensis153,B.cyrtandroides.sp.nov19,B.stilandra18,B.S.Pet.ELAE27.204
+ACmerged_contig_21237.fna	118	7	B.S.Pet.B33.131,B.maguniana180,B.kaniensis201,B.kaniensis153,B.vinkii197,B.S.Sym.117,B.kaniensis125
+ACmerged_contig_5002.fna	123	5	B.S.Pet.84,B.S.Sym.32,B.brachybotrys205a,B.stictopoda51,B.bipinnatifida178
+ACmerged_contig_14992.fna	133	0	
+ACmerged_contig_19196.fna	118	8	B.S.Sym.117a,B.symsanguinea25,B.kaniensis153,B.asaroensis46a,B.maguniana180,B.brassii219,B.S.Pet.ELAE83.217,B.S.Pet.ELAE4.196
+ACmerged_contig_17234.fna	111	8	B.S.Pet.102,B.cf.fulvovillosa31,B.S.Sym.117a,B.sp.Wilkie29116.71,B.asaroensis46a,B.brassii219,B.vinkii138,B.subciliata24
+ACmerged_contig_2772.fna	125	0	
+ACmerged_contig_29392.fna	134	0	
+ACmerged_contig_17726.fna	139	0	
+ACmerged_contig_12133.fna	128	0	
+ACmerged_contig_22591.fna	131	0	
+ACmerged_contig_18609.fna	125	0	
+ACmerged_contig_3744.fna	131	2	B.S.Sym.28a,B.vinkii138
+ACmerged_contig_12638.fna	126	5	B.S.Pet.244,B.S.Pet.127,B.octopetala11,B.leucostricta176,B.brachybotrys205a
+ACmerged_contig_9289.fna	138	1	B.strigosa113
+ACmerged_contig_10538.fna	113	0	
+ACmerged_contig_17286.fna	133	0	
+ACmerged_contig_16383.fna	114	7	B.S.Pet.B33.131,B.bipinnatifida1,B.S.Pet.B44.132,B.cf.fulvovillosa31,B.vinkii197,B.kaniensis125,B.brassii219
+ACmerged_contig_10672.fna	133	0	
+ACmerged_contig_6479.fna	123	1	B.bipinnatifida58
+ACmerged_contig_21645.fna	134	0	
+ACmerged_contig_27114.fna	131	0	
+ACmerged_contig_31829.fna	132	2	B.S.Pet.89,B.S.Sym.32
+ACmerged_contig_3642.fna	136	0	
+ACmerged_contig_4676.fna	118	6	B.sp.Wilkie29116.71,B.S.Sym.117,B.magunianaHOLO198,B.sp.CKYang1598.179,B.S.Sym.48,B.brassii227
+ACmerged_contig_2195.fna	124	0	
+ACmerged_contig_4991.fna	140	0	
+ACmerged_contig_24274.fna	138	0	
+ACmerged_contig_2200.fna	129	0	
+ACmerged_contig_6509.fna	123	8	B.S.Pet.102,B.S.Sym.117,B.symsanguinea25,B.S.Pet.B33.131,B.S.Pet.ELAE52.211,B.maguniana180,B.magunianaHOLO198,B.leucostricta176
+ACmerged_contig_4141.fna	146	0	
+ACmerged_contig_23183.fna	129	0	
+ACmerged_contig_13838.fna	126	0	
+ACmerged_contig_7408.fna	147	0	
+ACmerged_contig_2965.fna	127	0	
+ACmerged_contig_14095.fna	132	0	
+ACmerged_contig_17452.fna	129	0	
+ACmerged_contig_17954.fna	132	1	B.S.Pet.89
+ACmerged_contig_9400.fna	120	0	
+ACmerged_contig_9306.fna	139	0	
+ACmerged_contig_7097.fna	140	0	
+ACmerged_contig_19566.fna	121	12	B.S.Pet.102,B.S.Pet.83,B.S.Sym.117,B.cf.fulvovillosa31,B.symsanguinea25,B.S.Pet.156,B.S.Pet.B44.132,B.S.Sym.117a,B.vinkii197,B.S.Pet.B15.40,B.maguniana2a,B.sandsiana203
+ACmerged_contig_37654.fna	126	10	B.atricha49,B.bipinnatifida1a,B.S.Pet.102,B.S.Pet.89,B.maguniana180,B.S.Pet.ELAE52.211,B.vinkii138,B.maguniana206,B.magunianaHOLO198,B.sp.Wilkie29116.71
+ACmerged_contig_10485.fna	130	0	
+ACmerged_contig_32457.fna	91	19	B.sp.P.Blanc2173,B.S.Sym.28,B.symsanguinea25a,B.brassii227,B.S.Sym.117a,B.cf.fulvovillosa31a,B.kaniensis153,B.S.Sym.117,B.vinkii138,B.sp.Wilkie29124.76,B.erodifolia45a,B.magunianaHOLO198,B.S.Pet.B1.133,B.chambersiae220,B.kaniensis153a,B.kaniensis221,B.lagunensis64,B.kemumuensis27,B.vinkii199
+ACmerged_contig_39236.fna	137	0	
+ACmerged_contig_26519.fna	114	15	B.S.Sym.117,B.vinkii197,B.cf.strigosa142,B.lagunensis64,B.S.Sym.117a,B.S.Pet.156,B.sp.Wilkie29116.71,B.cf.fulvovillosa31,B.bipinnatifida1,B.S.Pet.ELAE86.218,B.bipinnatifida38,B.vinkii199,B.pentandra210,B.kaniensis201,B.serratipetalaELAE115.232
+ACmerged_contig_10585.fna	136	6	B.brassii202,B.S.Pet.ELAE93.222,B.S.Pet.ELAE86.218,B.S.Pet.B1.133,B.S.Sym.32,B.kaniensis153b
+ACmerged_contig_10542.fna	140	0	
+ACmerged_contig_15569.fna	127	3	B.S.Pet.129,B.S.Sym.32,B.kaniensis153b
+ACmerged_contig_27782.fna	134	0	
+ACmerged_contig_29421.fna	124	3	B.S.Pet.89,B.sp.Wilkie29116.71,B.S.Pet.129
+ACmerged_contig_23225.fna	126	5	B.symsanguinea25,B.S.Pet.83,B.cf.strigosa142,B.sp.Wilkie29116.71,B.S.Pet.129
+ACmerged_contig_24714.fna	134	6	B.S.Pet.97,B.fulvovillosa151a,B.maguniana2a,B.atricha49,B.cyrtandroides.sp.nov16,B.S.Pet.89
+ACmerged_contig_380.fna	134	3	B.S.Pet.89,B.bipinnatifida1,B.subciliata24
+ACmerged_contig_14956.fna	126	0	
+ACmerged_contig_13052.fna	54	99	B.S.Pet.102,B.cyrtandroides.sp.nov14a,B.S.Sym.117a,B.S.Sym.B34.121,B.S.Pet.129,B.brassii219,B.S.Pet.156,B.S.Pet.ELAE111.230,B.fulvovillosa151a,B.S.Pet.157,B.trichopoda50,B.stictopoda170,B.uniflora167,B.chambersiae220,B.kaniensis153,B.kaniensis125,B.bipinnatifida58,B.bipinnatifida1a,B.sp.P.Blanc172,B.asaroensis46,B.aikrono237,B.S.Pet.128,B.aff.augustae56,B.bipinnatifida1,B.oligandra200,B.vinkii197,B.stenogyna67,B.brassii227,B.vinkii199,B.S.Pet.60a,B.S.Pet.B13.44,B.S.Pet.ELAE118.233,B.cf.fulvovillosa31,B.leucostricta176,B.strigosa113,B.atricha52,B.sp.EKBOE46.171,B.sp.Rubite488.177,B.S.Sym.28,B.S.Sym.28a,B.S.Sym.ELAE46.209,B.vinkii208,B.symsanguinea139,B.maguniana180,B.sandsiana203,B.aff.jagorii65,B.kaniensis212,B.antsiranensis175,B.sp.CKYang1598.179,B.maynensis37,B.sp.ABEG248.174,B.stictopoda51,B.S.Pet.ELAE81.215,B.S.Pet.ELAE119.234,B.subciliata24,Hillebrandia,B.brassii202a,B.sp.P.Blanc2173,B.S.Pet.ELAE27.204,B.longifolia34,B.kemumuensis27,B.kaniensis153a,B.kaniensis201,B.kaniensis221,B.pentandra210,B.brassii207,B.maguniana206,B.cf.strigosa120,B.kaniensis153b,B.magunianaHOLO198,B.cyrtandroides.sp.nov14,B.weigallii57,B.malachosticta68,B.speluncae62,B.aff.rubella169,B.peruviana36,B.S.Pet.B15.110,B.vinkii138,B.S.Pet.97,B.S.Pet.127,B.S.Pet.83,B.S.Pet.B33.131,B.S.Pet.B44.132,B.S.Sym.117,B.maguniana2a,B.asaroensis115,B.aff.tafaensis87,B.S.Pet.89,B.cf.strigosa142,B.symsanguinea25,B.S.Sym.32,B.octopetala11,B.S.Sym.48,B.atricha49,B.oligandra162,B.sp.Wilkie29116.71,B.aff.augustae30,B.S.Pet.84,B.symbracteosa158
+ACmerged_contig_5190.fna	130	1	B.S.Pet.129
+ACmerged_contig_10458.fna	125	0	
+ACmerged_contig_1930.fna	131	0	
+ACmerged_contig_36746.fna	92	13	B.bipinnatifida58,B.S.Sym.48a,B.S.Pet.156,B.S.Pet.B1.39,B.S.Pet.ELAE111.230,B.speluncae62,B.stenogyna67,B.S.Pet.235,B.S.Pet.245,B.aikrono237,B.S.Pet.B13.44,B.vinkii208,B.longifolia34
+ACmerged_contig_29855.fna	50	39	B.S.Pet.B44.41,B.aff.augustae56,B.symsanguinea25a,B.stilandra18a,B.fulvovillosa151,B.cyrtandroides.sp.nov16a,B.S.Pet.ELAE72.214,B.S.Pet.ELAE118.233,B.S.Pet.B15.110,B.S.Pet.ELAE81.215,B.asaroensis46,B.symsanguinea139,B.erodifolia45a,B.cyrtandroides.sp.nov14a,B.S.Sym.ELAE46.209,B.S.Sym.B34.121,B.cyrtandroides.sp.nov14,B.S.Pet.B15.40,B.sp.P.Blanc172,B.bipinnatifida1,B.S.Pet.157,B.sp.Wilkie29124.76,B.weigallii57,B.S.Pet.ELAE98.225,B.brassii202,B.brassii202a,B.stictopoda170,B.sp.EKBOE46.171,B.S.Pet.B1.133,B.S.Pet.ELAE83.217,B.sp.CKYang1598.179,B.aikrono240,B.bipinnatifida178a,B.chambersiae220,B.aff.rubella169,B.sp.Rubite488.177,B.S.Pet.245,B.maynensis37,Hillebrandia
+ACmerged_contig_14320.fna	111	12	B.sandaunensis238,B.S.Sym.117a,B.maguniana180,B.cf.strigosa142,B.S.Pet.B33.131,B.S.Pet.ELAE83.217,B.leucostricta176,B.S.Sym.B32.140,B.S.Pet.ELAE72.214,B.S.Pet.60a,B.fractalifolia236,B.symsanguinea25
+ACmerged_contig_13172.fna	104	10	B.vinkii197,B.S.Pet.ELAE111.230,B.cf.fulvovillosa31,B.maguniana206,B.brassii219,B.kaniensis153,B.S.Pet.243,B.subciliata24,B.brassii202a,B.aikrono240
+ACmerged_contig_21567.fna	133	0	
+ACmerged_contig_4711.fna	123	0	
+ACmerged_contig_13134.fna	131	0	
+ACmerged_contig_18651.fna	142	0	
+ACmerged_contig_12374.fna	124	1	B.cf.strigosa120
+ACmerged_contig_10026.fna	124	0	
+ACmerged_contig_24664.fna	132	0	
+Becon104Scf05057g0012.1.fna	119	0	
+ACmerged_contig_34495.fna	137	0	
+ACmerged_contig_21140.fna	139	1	B.octopetala11
+ACmerged_contig_12414.fna	120	0	
+ACmerged_contig_12748.fna	115	29	B.bipinnatifida1a,B.aff.augustae30,B.S.Pet.ELAE1.195,B.vinkii3,B.S.Sym.48,B.S.Pet.ELAE27.204,B.octopetala11,B.cyrtandroides.sp.nov19,B.S.Pet.ELAE118.233,B.S.Pet.245,B.sp.Wilkie29124.76,B.symsanguinea25a,B.asaroensis46a,B.S.Pet.ELAE94.223,B.brassii202,B.S.Pet.156,B.kaniensis201,B.vinkii138,B.lagunensis64,B.S.Pet.B13.44,B.bipinnatifida1,B.aikrono237,B.S.Pet.102,B.S.Pet.B33.131,B.stilandra18,B.S.Pet.242,B.S.Sym.ELAE46.209,B.asaroensis46,B.aff.augustae56
+ACmerged_contig_17199.fna	133	0	
+ACmerged_contig_9107.fna	120	0	
+ACmerged_contig_5058.fna	135	0	
+ACmerged_contig_34320.fna	126	0	
+ACmerged_contig_1518.fna	117	22	B.S.Pet.127,B.S.Pet.97,B.brachybotrys205a,B.maguniana2a,B.octopetala11,B.weigallii57,B.sandaunensis238,B.S.Pet.241,B.cyrtandroides.sp.nov14,B.cyrtandroides.sp.nov14a,B.symsanguinea139,B.mimikaensis159,B.S.Pet.ELAE81.215,B.S.Pet.B44.41,B.vinkii197,B.S.Pet.B33.43,B.vinkii3b,B.chambersiae220,B.sp.CKYang1598.179,B.magunianaHOLO198,B.sp.Rubite488.177,B.S.Pet.243
+ACmerged_contig_3345.fna	101	0	
+ACmerged_contig_9385.fna	143	0	
+ACmerged_contig_20665.fna	130	0	
+ACmerged_contig_10487.fna	136	0	
+ACmerged_contig_16434.fna	130	0	
+ACmerged_contig_5631.fna	139	0	
+ACmerged_contig_26504.fna	118	1	B.vinkii197
+ACmerged_contig_31324.fna	139	1	B.S.Pet.89
+ACmerged_contig_31762.fna	122	0	
+ACmerged_contig_15477.fna	135	0	
+ACmerged_contig_27793.fna	128	4	B.S.Pet.ELAE72.214,B.cyrtandroides.sp.nov16,B.S.Pet.ELAE94.223,B.aff.rubella169
+ACmerged_contig_5038.fna	129	1	B.leucostricta176
+ACmerged_contig_12792.fna	121	0	
+Becon104Scf00654g0008.1.fna	132	0	
+ACmerged_contig_30187.fna	134	0	
+ACmerged_contig_15691.fna	112	1	B.sandsiana203
+ACmerged_contig_14982.fna	137	1	B.bipinnatifida1a
+ACmerged_contig_22508.fna	125	0	
+ACmerged_contig_17688.fna	131	2	B.S.Pet.89,B.S.Pet.ELAE119.234
+ACmerged_contig_7284.fna	131	0	
+ACmerged_contig_5562.fna	146	0	
+ACmerged_contig_1618.fna	128	0	
+Becon104Scf01845g0012.1.fna	133	0	
+ACmerged_contig_24653.fna	101	22	B.S.Pet.102,B.S.Pet.B33.131,B.S.Pet.156,B.S.Sym.28a,B.cf.fulvovillosa31,B.S.Sym.B34.121,B.S.Pet.B44.132,B.vinkii197,B.bipinnatifida1,B.bipinnatifida58,B.asaroensis46a,B.S.Sym.117,B.cf.fulvovillosa31a,B.brassii219,B.brachybotrys205a,B.brassii227,B.sandsiana203,B.kaniensis153,B.lagunensis64,B.serratipetalaELAE115.232,B.S.Pet.83,B.vinkii138
+ACmerged_contig_11997.fna	124	0	
+ACmerged_contig_1190.fna	136	0	
+ACmerged_contig_33982.fna	136	0	
+ACmerged_contig_23983.fna	129	0	
+Becon104Scf00113g1020.1.fna	127	1	B.S.Pet.83
+ACmerged_contig_14239.fna	132	0	
+ACmerged_contig_8940.fna	136	0	
+ACmerged_contig_6044.fna	135	1	B.S.Pet.127
+ACmerged_contig_12144.fna	134	0	
+ACmerged_contig_6579.fna	128	3	B.sp.CKYang1598.179,B.kaniensis212,B.malachosticta68
+ACmerged_contig_8384.fna	134	0	
+ACmerged_contig_9321.fna	137	0	
+ACmerged_contig_7994.fna	133	0	
+ACmerged_contig_5217.fna	145	0	
+ACmerged_contig_11590.fna	132	0	
+ACmerged_contig_11044.fna	130	0	
+ACmerged_contig_15018.fna	136	0	
+ACmerged_contig_27939.fna	131	0	
+ACmerged_contig_2092.fna	137	0	
+ACmerged_contig_5984.fna	109	14	B.bipinnatifida58,B.asaroensis46a,B.S.Pet.B33.131,B.S.Pet.B13.44,B.sp.Wilkie29116.71,B.S.Sym.28a,B.leucostricta176,B.vinkii199,B.brassii219,B.brassii227,B.kaniensis201,B.kaniensis125,B.peruviana36,B.cf.strigosa120
+ACmerged_contig_4373.fna	134	0	
+ACmerged_contig_14203.fna	132	1	B.maguniana180
+ACmerged_contig_2779.fna	112	0	
+ACmerged_contig_1476.fna	151	1	B.S.Pet.97
+ACmerged_contig_8192.fna	128	0	
+ACmerged_contig_2451.fna	128	0	
+ACmerged_contig_5093.fna	133	0	
+ACmerged_contig_7937.fna	130	0	
+ACmerged_contig_14909.fna	132	0	
+ACmerged_contig_2900.fna	130	1	B.S.Pet.89
+ACmerged_contig_739.fna	121	0	
+ACmerged_contig_9823.fna	141	0	
+ACmerged_contig_8083.fna	131	0	
+ACmerged_contig_2391.fna	130	4	B.symsanguinea25,B.vinkii197,B.vinkii199,B.bipinnatifida178a
+ACmerged_contig_22419.fna	142	0	
+ACmerged_contig_2596.fna	139	0	
+ACmerged_contig_13208.fna	129	6	B.bipinnatifida1a,B.S.Pet.127,B.S.Sym.32,B.octopetala11,B.brassii202,B.brachybotrys205a
+ACmerged_contig_983.fna	130	0	
+ACmerged_contig_25380.fna	125	0	
+ACmerged_contig_18734.fna	119	2	B.trichopoda50,B.bipinnatifida58
+ACmerged_contig_13865.fna	138	0	
+ACmerged_contig_6107.fna	131	1	B.S.Pet.127
+ACmerged_contig_4869.fna	132	0	
+ACmerged_contig_32267.fna	123	0	
+ACmerged_contig_13278.fna	132	0	
+ACmerged_contig_5223.fna	91	0	
+ACmerged_contig_7897.fna	129	1	B.S.Pet.B33.131
+ACmerged_contig_9547.fna	137	0	
+ACmerged_contig_6754.fna	122	0	
+ACmerged_contig_18216.fna	126	0	
