@@ -121,6 +121,19 @@ SIFT4G_THREADS=8
 OUTPUT_DIR="${1:-.}"
 mkdir -p "$OUTPUT_DIR"
 
+
+SIFT4G_DB_PARENT="/home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db"
+
+mkdir -p "$SIFT4G_DB_PARENT/fasta"
+mkdir -p "$SIFT4G_DB_PARENT/subst"
+mkdir -p "$SIFT4G_DB_PARENT/SIFT_scores"
+mkdir -p "$SIFT4G_DB_PARENT/singleRecords"
+mkdir -p "$SIFT4G_DB_PARENT/dbSNP"
+
+
+
+
+
 # ------------------------------------------------------------------------------
 # Validate prerequisites
 # ------------------------------------------------------------------------------
@@ -203,6 +216,10 @@ GENE_SRC="$SIFT4G_DB_PARENT/gene-annotation-src"
 
 mkdir -p "$CHR_SRC" "$GENE_SRC" "$SIFT4G_DB_PARENT/dbSNP"
 
+# Clean up any leftover uncompressed FASTA from previous runs
+rm -f "$CHR_SRC/${ORG}.fa"
+
+
 cp "$FASTA_GZ" "$CHR_SRC/"
 cp "$GTF_GZ"   "$GENE_SRC/"
 
@@ -228,6 +245,15 @@ GENETIC_CODE_TABLE=$GENETIC_CODE_TABLE
 GENETIC_CODE_TABLENAME=$GENETIC_CODE_TABLENAME
 MITO_GENETIC_CODE_TABLE=$MITO_GENETIC_CODE_TABLE
 MITO_GENETIC_CODE_TABLENAME=$MITO_GENETIC_CODE_TABLENAME
+GENE_DOWNLOAD_DEST=gene-annotation-src
+CHR_DOWNLOAD_DEST=chr-src
+SUBST_DIR=subst
+FASTA_DIR=fasta
+SIFT_SCORE_DIR=SIFT_scores
+SINGLE_REC_WITH_SIFTSCORE_DIR=singleRecords
+FASTA_LOG=fasta.log
+INVALID_LOG=invalid.log
+ZLOGFILE=nCase.log
 EOF
 
 echo "    Config written to $CONFIG_FILE"
@@ -269,6 +295,7 @@ echo "    This can take 1-24+ hours depending on genome size."
 echo "    Monitor progress with:"
 echo "      ls -lt $SIFT4G_DB_PARENT/singleRecords/"
 echo "      ls $SIFT4G_DB_PARENT/SIFT_predictions/"
+
 
 cd "$SIFT4G_CREATE_DB_DIR" || exit 1
 

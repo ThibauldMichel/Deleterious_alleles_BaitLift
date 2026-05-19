@@ -1,0 +1,13 @@
+
+[3b] Running SIFT4G scorer — this may take several hours...
+    Protein FASTA already exists — skipping gffread extraction.
+    Protein sequence count:
+22861
+    First 4 lines of ./Bmas_proteins.fa:
+>Bma000001.1
+FDPFVPGGIASHHIAAGTLGILAGLFHLSVRPPQRLYKGLRMGNIETVLSSSIAAVFFAAFVVAGTMWYG
+SATTPIELFGPTRYQWDQGYFQQEIYRRVGAGLAENQSLSQSKIPEKLAFYDYIGNNPAKGGLFRAGSMD
+NGDGIAVGWLGHPIFKDKEGRELFVRRMPTFFETFPVVLVDGDGIVRADVPFRRAESKYSVEQVGVTVEF
+    Decompressing UniRef90 — this will take a while and requires ~100 GB...
+/var/spool/slurm/job20050374/slurm_script: line 167: /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/uniref90.fasta: No such file or directory
+[!] Failed to decompress UniRef90 database.

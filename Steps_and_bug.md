@@ -1,0 +1,47 @@
+Full walkthrough of what your pipeline does and where it's currently failing.
+
+---
+
+**The overall goal**
+
+You have variants (SNPs/indels) from baited sequencing of *Brugia malayi* (*Bmas*) samples. You want to know which variants are likely deleterious. The pipeline annotates each variant with (a) what kind of mutation it causes and (b) how damaging it likely is.
+
+---
+
+**Script 1 — Liftover (`script_1_lift_VCF.sh`)**
+
+Your baits don't cover the full genome — they target specific regions. The variants in your VCF are in bait coordinates (position within a bait sequence), not genome coordinates. This script uses a mapping file to translate bait coordinates → genome coordinates, producing a VCF that can be compared against the reference genome. It then sorts, indexes, and validates that the chromosome names in the lifted VCF actually match the reference FASTA.
+
+---
+
+**Script 2 — Build snpEff database (`script_2_build_snpeff_db.sh`)**
+
+Builds a snpEff database for *Bmas* using your reference FASTA and GFF annotation. This is a one-time step. snpEff will later use this to annotate each variant with its functional consequence: is it synonymous, missense, stop-gained, frameshift, splice site, etc.?
+
+---
+
+**Script 3b — Build SIFT4G database (`script_3b_build_sift4g_db.sh`) ← where you are stuck**
+
+This is the problem script. Its job is to build the database that SIFT4G_Annotator needs to score missense variants. It does this in five steps:
+
+- **3b-a**: Converts your GFF annotation to GTF format using `gffread`, then compresses both the FASTA and GTF with gzip
+- **3b-b**: Sets up the directory structure expected by `SIFT4G_Create_Genomic_DB` — placing the FASTA in `chr-src/` and the GTF in `gene-annotation-src/`
+- **3b-c**: Writes a config file for the Perl pipeline
+- **3b-d**: Decompresses UniRef90 (~100 GB protein database) if not already done
+- **3b-e**: Runs `make-SIFT-db-all.pl`, which should: extract protein sequences for every transcript, score each protein against UniRef90 using sift4g to measure evolutionary conservation, and produce per-scaffold `.regions` and `.gz` files
+
+**It is currently failing at step 3b-e**, specifically inside `generate-fasta-subst-files-BIOPERL.pl`. This script reads the GTF to get CDS coordinates, fetches the corresponding nucleotide sequences from the genome FASTA using `Bio::DB::Fasta`, translates them into protein sequences, and generates substitution files listing every possible amino acid change at every position. The output should be `.fasta` files (one per transcript, containing the protein sequence) and `.subst` files (one per transcript, listing all possible amino acid substitutions).
+
+Currently `fasta.log` reports `0 out of 22861 translated` — every single transcript fails translation, so no `.fasta` files are produced and sift4g has nothing to align, hence `No valid queries to process`.
+
+We have fixed several bugs so far (missing config keys, `$meta_hash` vs `%meta_hash` in three places) but translation is still failing. The most likely remaining cause is that `Bio::DB::Fasta` is being called with the range syntax `$chr_db->seq("Contig1453:1,100")` which may not be supported by your BioPerl version, silently returning empty strings instead of sequence — which is why the test run you're doing right now is important. If the human test works, it will confirm the pipeline itself is functional and the problem is specific to how your Bmas GTF coordinates are being queried.
+
+---
+
+**Script 4 — SIFT annotation (`script_4_SIFT_annotate.sh`)**
+
+Once the database exists, this script takes your lifted VCF and runs `SIFT4G_Annotator.jar` against it, adding a SIFT score (0–1) to each missense variant. Score < 0.05 = predicted damaging, ≥ 0.05 = tolerated. It also runs snpEff to add functional consequence annotations.
+
+---
+
+**In short:** you are at step 3b-e, the pipeline has 22,861 transcripts to process but is producing empty protein sequences for all of them, and we are currently testing whether this is a BioPerl version incompatibility or something specific to the Bmas data.

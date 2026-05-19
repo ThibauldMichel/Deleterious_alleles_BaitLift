@@ -174,7 +174,7 @@ if [ $SIFT4G_EXIT -ne 0 ]; then
 fi
 
 # SIFT4G_Annotator writes the output with the suffix _SIFTannotations.vcf
-SIFT_ANNOTATED_VCF=$(find "$SIFT_RESULTS" -name "*_SIFTannotations.vcf" | head -1)
+SIFT_ANNOTATED_VCF=$(find "$SIFT_RESULTS" -name "*_SIFTpredictions.vcf" -o -name "*_SIFTannotations.vcf" | head -1)
 if [ -z "$SIFT_ANNOTATED_VCF" ]; then
     echo "[!] Could not find SIFT-annotated VCF in $SIFT_RESULTS" >&2
     echo "    Contents of results directory:" >&2

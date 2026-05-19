@@ -1,0 +1,70 @@
+
+[3b] Building SIFT4G genomic database — this will take several hours...
+
+    [3b-a] Converting GFF to GTF format...
+    GTF written to ./sift4g_build_work/Bmas.gene.gtf
+    Compressing FASTA and GTF...
+
+    [3b-b] Setting up SIFT4G_Create_Genomic_DB directory structure...
+    Files placed:
+      /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/chr-src/Bmas.fa.gz
+      /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/gene-annotation-src/Bmas.gene.gtf.gz
+
+    [3b-c] Writing config file...
+    Config written to /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_Bmas.config.txt
+
+    Config contents:
+      SIFT4G_PATH=/mnt/apps/users/tmichel/conda/envs/perl_env/bin/sift4g
+      PROTEIN_DB=/home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/uniref90.fasta
+      PARENT_DIR=/home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db
+      ORG=Bmas
+      ORG_VERSION=Bmas_v1
+      GENETIC_CODE_TABLE=1
+      GENETIC_CODE_TABLENAME=Standard
+      MITO_GENETIC_CODE_TABLE=1
+      MITO_GENETIC_CODE_TABLENAME=Standard
+      GENE_DOWNLOAD_DEST=gene-annotation-src
+      CHR_DOWNLOAD_DEST=chr-src
+      SUBST_DIR=subst
+      FASTA_DIR=fasta
+      SIFT_SCORE_DIR=SIFT_scores
+      SINGLE_REC_WITH_SIFTSCORE_DIR=singleRecords
+      FASTA_LOG=fasta.log
+      INVALID_LOG=invalid.log
+      ZLOGFILE=nCase.log
+
+    [3b-d] Decompressing UniRef90 — requires ~100 GB and will take a while...
+    Checking available space:
+Filesystem      Size  Used Avail Use% Mounted on
+beegfs_nodev    3.7P  2.5P  1.3P  67% /mnt/shared
+    Decompression complete: /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/uniref90.fasta
+
+    [3b-e] Running make-SIFT-db-all.pl...
+    This can take 1-24+ hours depending on genome size.
+    Monitor progress with:
+      ls -lt /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/singleRecords/
+      ls /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/SIFT_predictions/
+entered mkdir /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/Bmas_v1
+converting gene format to use-able input
+done converting gene format
+making single records file
+Use of uninitialized value in concatenation (.) or string at make-single-records-BIOPERL.pl line 88.
+done making single records template
+making noncoding records file
+Use of uninitialized value in concatenation (.) or string at make-single-records-noncoding.pl line 35.
+done making noncoding records
+make the fasta sequences
+Use of uninitialized value in concatenation (.) or string at generate-fasta-subst-files-BIOPERL.pl line 379.
+Unable to open /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/ for writing.
+done making the fasta sequences
+start siftsharp, getting the alignments
+cat: '/home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/fasta/*.fasta': No such file or directory
+/mnt/apps/users/tmichel/conda/envs/perl_env/bin/sift4g -d /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/uniref90.fasta -q /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/all_prot.fasta --subst /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/subst --out /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/SIFT_scores --sub-results 
+** Checking query data and substitutions files **
+
+
+** EXITING! No valid queries to process. **
+[!] make-SIFT-db-all.pl failed or produced no .regions files.
+    Exit code: 255
+    .regions files found: 0
+    Check the contents of /home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db for partial output.
