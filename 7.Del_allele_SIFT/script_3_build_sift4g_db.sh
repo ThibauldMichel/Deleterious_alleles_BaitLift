@@ -129,8 +129,9 @@ mkdir -p "$SIFT4G_DB_PARENT/subst"
 mkdir -p "$SIFT4G_DB_PARENT/SIFT_scores"
 mkdir -p "$SIFT4G_DB_PARENT/singleRecords"
 mkdir -p "$SIFT4G_DB_PARENT/dbSNP"
-
-
+mkdir -p "$SIFT4G_DB_PARENT/SIFT_alignments"
+mkdir -p "$SIFT4G_DB_PARENT/singleRecords"
+mkdir -p "$SIFT4G_DB_PARENT/singleRecords_with_scores"
 
 
 
@@ -177,6 +178,8 @@ echo "[3b] Building SIFT4G genomic database — this will take several hours..."
 # ==============================================================================
 # a) Convert GFF to GTF and compress inputs
 # ==============================================================================
+
+
 echo ""
 echo "    [3b-a] Converting GFF to GTF format..."
 
@@ -190,7 +193,26 @@ if [ $? -ne 0 ] || [ ! -f "$GTF_FILE" ]; then
     echo "[!] gffread GFF->GTF conversion failed." >&2
     exit 1
 fi
-echo "    GTF written to $GTF_FILE"
+
+# Add exon lines from CDS lines — required by ensembl_gene_format_to_ucsc.pl
+# which reads exon features to build exon coordinate arrays
+# gene_biotype "protein_coding" is mandatory — the script silently skips
+# any line without it. gene_id is also required for transcript grouping.
+echo "    Adding exon lines from CDS features..."
+
+awk 'BEGIN{OFS="\t"} $3=="CDS" {
+    $3="exon"
+    txid=$9
+    sub(/.*transcript_id "/, "", txid)
+    sub(/".*/, "", txid)
+    $9 = "transcript_id \"" txid "\"; gene_id \"" txid "\"; gene_biotype \"protein_coding\";"
+    print
+}' "$GTF_FILE" >> "$GTF_FILE"
+
+echo "    Verifying exon line format:"
+grep "exon" "$GTF_FILE" | head -2 | sed 's/^/      /'
+echo "    Feature counts:"
+cut -f3 "$GTF_FILE" | sort | uniq -c | sed 's/^/      /'
 
 # Compress inputs — SIFT4G_Create_Genomic_DB expects .fa.gz and .gtf.gz
 echo "    Compressing FASTA and GTF..."
@@ -204,6 +226,9 @@ if [ ! -f "$FASTA_GZ" ] || [ ! -f "$GTF_GZ" ]; then
     echo "[!] Failed to compress FASTA or GTF." >&2
     exit 1
 fi
+
+
+
 
 # ==============================================================================
 # b) Build the SIFT4G_Create_Genomic_DB directory structure
@@ -219,8 +244,11 @@ mkdir -p "$CHR_SRC" "$GENE_SRC" "$SIFT4G_DB_PARENT/dbSNP"
 # Clean up any leftover uncompressed FASTA from previous runs
 rm -f "$CHR_SRC/${ORG}.fa"
 
+# Instead of copying the gzipped version:
+#cp "$FASTA_GZ" "$CHR_SRC/"
 
-cp "$FASTA_GZ" "$CHR_SRC/"
+# Copy the original uncompressed FASTA:
+cp "$BMAS_FASTA" "$CHR_SRC/${ORG}.fa"
 cp "$GTF_GZ"   "$GENE_SRC/"
 
 echo "    Files placed:"
@@ -232,6 +260,7 @@ echo "      $GENE_SRC/$(basename $GTF_GZ)"
 # ==============================================================================
 echo ""
 echo "    [3b-c] Writing config file..."
+
 
 CONFIG_FILE="/home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_${ORG}.config.txt"
 
@@ -247,13 +276,20 @@ MITO_GENETIC_CODE_TABLE=$MITO_GENETIC_CODE_TABLE
 MITO_GENETIC_CODE_TABLENAME=$MITO_GENETIC_CODE_TABLENAME
 GENE_DOWNLOAD_DEST=gene-annotation-src
 CHR_DOWNLOAD_DEST=chr-src
-SUBST_DIR=subst
+LOGFILE=Log.txt
+ZLOGFILE=nCase.log
 FASTA_DIR=fasta
-SIFT_SCORE_DIR=SIFT_scores
-SINGLE_REC_WITH_SIFTSCORE_DIR=singleRecords
+SUBST_DIR=subst
+ALIGN_DIR=SIFT_alignments
+SIFT_SCORE_DIR=SIFT_predictions
+SINGLE_REC_BY_CHR_DIR=singleRecords
+SINGLE_REC_WITH_SIFTSCORE_DIR=singleRecords_with_scores
+DBSNP_DIR=dbSNP
 FASTA_LOG=fasta.log
 INVALID_LOG=invalid.log
-ZLOGFILE=nCase.log
+PEPTIDE_LOG=peptide.log
+ENS_PATTERN=ENS
+SINGLE_RECORD_PATTERN=:change:_aa1valid_dbsnp.singleRecord
 EOF
 
 echo "    Config written to $CONFIG_FILE"
