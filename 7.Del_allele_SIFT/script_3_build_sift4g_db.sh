@@ -179,42 +179,43 @@ echo "[3b] Building SIFT4G genomic database — this will take several hours..."
 # a) Convert GFF to GTF and compress inputs
 # ==============================================================================
 
+BMAS_GFF="/home/tmichel/projects/rbge/tmichel/reference_genomes/Bmas.gff"
+BMAS_FASTA="/home/tmichel/projects/rbge/tmichel/reference_genomes/Bmas.fa"
+OUTPUT_DIR="${1:-.}"
+ORG="Bmas"
+
+WORK_DIR="$OUTPUT_DIR/sift4g_build_work"
+mkdir -p "$WORK_DIR"
+GTF_FILE="$WORK_DIR/${ORG}.gene.gtf"
 
 echo ""
 echo "    [3b-a] Converting GFF to GTF format..."
 
-WORK_DIR="$OUTPUT_DIR/sift4g_build_work"
-mkdir -p "$WORK_DIR"
-
-GTF_FILE="$WORK_DIR/${ORG}.gene.gtf"
-
-gffread "$BMAS_GFF" -T -o "$GTF_FILE"
+agat_convert_sp_gff2gtf.pl --gff "$BMAS_GFF" -o "$GTF_FILE"
 if [ $? -ne 0 ] || [ ! -f "$GTF_FILE" ]; then
-    echo "[!] gffread GFF->GTF conversion failed." >&2
+    echo "[!] AGAT GFF->GTF conversion failed." >&2
     exit 1
 fi
 
-# Add exon lines from CDS lines — required by ensembl_gene_format_to_ucsc.pl
-# which reads exon features to build exon coordinate arrays
-# gene_biotype "protein_coding" is mandatory — the script silently skips
-# any line without it. gene_id is also required for transcript grouping.
-echo "    Adding exon lines from CDS features..."
+# Fix biotype attributes — ensembl_gene_format_to_ucsc.pl requires
+# gene_biotype "protein_coding" on every feature line
+echo "    Fixing biotype attributes..."
+sed -i 's/original_biotype "mrna"/gene_biotype "protein_coding"/g' "$GTF_FILE"
+sed -i '/\texon\t/s/$/ gene_biotype "protein_coding";/' "$GTF_FILE"
+sed -i '/\tCDS\t/s/$/ gene_biotype "protein_coding";/' "$GTF_FILE"
 
-awk 'BEGIN{OFS="\t"} $3=="CDS" {
-    $3="exon"
-    txid=$9
-    sub(/.*transcript_id "/, "", txid)
-    sub(/".*/, "", txid)
-    $9 = "transcript_id \"" txid "\"; gene_id \"" txid "\"; gene_biotype \"protein_coding\";"
-    print
-}' "$GTF_FILE" >> "$GTF_FILE"
 
-echo "    Verifying exon line format:"
+echo "    Verifying line formats:"
+echo "    exon:"
 grep "exon" "$GTF_FILE" | head -2 | sed 's/^/      /'
+echo "    CDS:"
+grep $'\tCDS\t' "$GTF_FILE" | head -2 | sed 's/^/      /'
+echo "    transcript:"
+grep "transcript" "$GTF_FILE" | grep -v "^#" | head -2 | sed 's/^/      /'
+
 echo "    Feature counts:"
 cut -f3 "$GTF_FILE" | sort | uniq -c | sed 's/^/      /'
 
-# Compress inputs — SIFT4G_Create_Genomic_DB expects .fa.gz and .gtf.gz
 echo "    Compressing FASTA and GTF..."
 FASTA_GZ="$WORK_DIR/${ORG}.fa.gz"
 GTF_GZ="$WORK_DIR/${ORG}.gene.gtf.gz"
@@ -226,6 +227,8 @@ if [ ! -f "$FASTA_GZ" ] || [ ! -f "$GTF_GZ" ]; then
     echo "[!] Failed to compress FASTA or GTF." >&2
     exit 1
 fi
+
+echo "    Done."
 
 
 

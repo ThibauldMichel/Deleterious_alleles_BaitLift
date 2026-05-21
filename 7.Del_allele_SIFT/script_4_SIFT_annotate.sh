@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name="SIFT_snpEff_annotate"
+#SBATCH --job-name="SIFT_annotate"
 #SBATCH --mem=40G
 #SBATCH --partition=medium
 #SBATCH --export=ALL
@@ -102,7 +102,7 @@ mkdir -p "$OUTPUT_DIR"
 # ------------------------------------------------------------------------------
 # Derived paths
 # ------------------------------------------------------------------------------
-SIFT_DB="$SNPEFF_DATA_DIR/$GENOME_NAME"
+SIFT_DB="/home/tmichel/scratch/Deleterious_alleles_PNG_baits/7.Del_allele_SIFT/sift4g_db/Bmas_v1"
 
 # Input VCF — produced by script_1 (lifted + sorted)
 SORTED_VCF="$OUTPUT_DIR/all_renamed.genome_coords.sorted.vcf.gz"
@@ -129,15 +129,14 @@ if [ "$missing" -eq 1 ]; then
     exit 1
 fi
 
-if [ ! -f "$SIFT_DB/snpEffectPredictor.bin" ]; then
-    echo "[!] snpEff database not found. Run script_3a_build_snpeff_db.sh first." >&2
-    exit 1
+if [ ! -d "$SIFT_DB" ] || [ "$(find "$SIFT_DB" -name "*.regions" | wc -l)" -eq 0 ]; then
+    echo "[!] SIFT4G database not found at $SIFT_DB. Run script_3b_build_sift4g_db.sh first." >&2
 fi
 
-SIFT_PRED_COUNT=$(find "$SIFT_DB" -name "*.SIFTprediction" 2>/dev/null | wc -l)
+SIFT_PRED_COUNT=$(find "$SIFT_DB" -name "*.regions" 2>/dev/null | wc -l)
 if [ "$SIFT_PRED_COUNT" -eq 0 ]; then
-    echo "[!] No .SIFTprediction files found in $SIFT_DB." >&2
-    echo "    Run script_3_build_regions.sh first." >&2
+    echo "[!] No .regions files found in $SIFT_DB." >&2
+    echo "    Run script_3b_build_sift4g_db.sh first." >&2
     exit 1
 fi
 echo "[*] Found $SIFT_PRED_COUNT .SIFTprediction files — proceeding with annotation."
@@ -205,9 +204,9 @@ fi
 
 
 # Line near the end — the success check
-REGIONS_COUNT=$(find "$SIFT_DB" -name "*.SIFTprediction" 2>/dev/null | wc -l)
+REGIONS_COUNT=$(find "$SIFT_DB" -name "*.regions" 2>/dev/null | wc -l)
 if [ "$REGIONS_COUNT" -eq 0 ]; then
-    echo "[!] sift4g completed but no .SIFTprediction files were written to $SIFT_DB." >&2
+    echo "[!] SIFT4G database appears empty after annotation." >&2
     exit 1
 fi
 
