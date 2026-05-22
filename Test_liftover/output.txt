@@ -1,0 +1,8 @@
+bash script_test.sh 
+---
+Bait  : Hannah_Begonia_baits-ACmerged_contig_1002  q_coords: 0-50  strand: +
+Locus : scaffold2:49251268-49439930
+Bait    : TCTCACCTACGAATTGATAATGCTGTTCGATGCAATAGCGTTCTCCACTT
+Genome  : TCTCAGCTACGAATTGATAATAGTGTTCGATGATGCATAGCGTTCTCCAC
+DEBUG: 'scaffold2' '49251268' '49439930' 'Hannah_Begonia_baits-ACmerged_contig_1002' '+' '0' '811'
+
